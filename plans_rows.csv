@@ -1,5 +1,5 @@
 plan_id,item_type,item_name,section,name,location,obtainable
-1,Paints,Armor,Power Armor,Blue Camo Power Armor Paint,Event: Holiday Scorched,true
+1,Paints,Armor,Power Armor,Blue Camo Power Armor Paints,Event: Holiday Scorched,true
 2,Paints,Armor,Combat Armor,Blue Ridge Guardsman Paint,Quest: Costa Business (Libby),true
 3,Paints,Armor,Power Armor,Deep-Space Alien Power Armor Helmet Paint,Daily Ops (Rare),true
 4,Paints,Armor,Power Armor,Deep-Space Alien Power Armor Torso Paint,Daily Ops (Rare),true
@@ -108,7 +108,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 107,Armor,Sets,Botsmith Armor,Botsmith Right Arm,Event: Test Your Metal,true
 108,Armor,Sets,Botsmith Armor,Botsmith Right Leg,Event: Test Your Metal,true
 109,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Helmet,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
-110,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Torso,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
+110,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Chest Piece,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
 111,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Left Arm,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
 112,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Left Leg,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
 113,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Right Arm,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
@@ -130,7 +130,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 129,Armor,Sets,Civil Engineer Armor,Civil Engineer Armor Right Arm,Quest: All the World's a Stage,true
 130,Armor,Sets,Civil Engineer Armor,Civil Engineer Armor Right Leg,Quest: Honor Bound,true
 131,Armor,Sets,Covert Scout Armor,Covert Scout Armor Mask,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
-132,Armor,Sets,Covert Scout Armor,Covert Scout Armor Torso,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
+132,Armor,Sets,Covert Scout Armor,Covert Scout Armor Chest Piece,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
 133,Armor,Sets,Covert Scout Armor,Covert Scout Armor Left Arm,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
 134,Armor,Sets,Covert Scout Armor,Covert Scout Armor Left Leg,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
 135,Armor,Sets,Covert Scout Armor,Covert Scout Armor Right Arm,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
@@ -435,10 +435,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 436,C.A.M.P,Decorations,Floor Decor,Circus Stilts,Event: Spin The Wheel,true
 437,C.A.M.P,Decorations,Floor Decor,Plastic Fruit Bowl,Event: Grahm's Meat-Cook,true
 438,C.A.M.P,Decorations,Floor Decor,Resort Vases,Sold by Pendleton,true
-439,C.A.M.P,Decorations,Floor Decor,Bottle & Cappy Painting Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
-440,C.A.M.P,Decorations,Floor Decor,Bottle & Cappy Walking Globe Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
-441,C.A.M.P,Decorations,Floor Decor,Bottle & Cappy Hoop Jump  Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
-442,C.A.M.P,Decorations,Floor Decor,Bottle & Cappy Balloon Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+439,C.A.M.P,Decorations,Floor Decor,Bottle and Cappy Painting Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+440,C.A.M.P,Decorations,Floor Decor,Bottle and Cappy Walking Globe Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+441,C.A.M.P,Decorations,Floor Decor,Bottle and Cappy Hoop Jump Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+442,C.A.M.P,Decorations,Floor Decor,Bottle and Cappy Balloon Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
 443,C.A.M.P,Decorations,Floor Decor,Brahmin Plushie,Event: Holiday Scorched,true
 444,C.A.M.P,Decorations,Floor Decor,Wanamingo Plushie,Event: Treasure Hunter,true
 445,C.A.M.P,Decorations,Floor Decor,Wendigo Colossus Plushie,Event: A Colossal Problem,true
@@ -1070,10 +1070,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1098,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Lead Lined Armor Limbs,Sold by Regs,true
 1099,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Lighter Build Armor Limbs,Sold by Regs,true
 1100,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Muffled Armor Limbs,Sold by Regs,true
-1101,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Pocketed Armor Limbs,Sold by Regs & Minerva (Lists 10 & 12),true
+1101,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Pocketed Armor Limb,Sold by Regs & Minerva (Lists 10 & 12),true
 1102,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Stabilized Armor Arms,Sold by Regs,true
 1103,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Strengthened Armor Limbs,Sold by Regs,true
-1104,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Ultra-Light Build Armor Limbs,Sold by Regs,true
+1104,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Ultra-Light Build Limbs,Sold by Regs,true
 1105,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Weighted Armor Arms,Sold by Regs,true
 1106,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Buttressed Armor Legs,Sold by Regs,true
 1107,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Hardened Armor Legs,Sold by Regs,true
@@ -1090,7 +1090,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1125,Mods,Armor,Civil Engineer Armor,Civil Engineer BioCommMesh Armor Torso,Sold by Giuseppe,true
 1126,Mods,Armor,Civil Engineer Armor,Civil Engineer Deep Pocketed Armor Torso,Sold by Giuseppe,true
 1127,Mods,Armor,Civil Engineer Armor,Civil Engineer Dense Armor Torso,Sold by Giuseppe,true
-1128,Mods,Armor,Civil Engineer Armor,Civil Engineer Jet Pack,Sold by Giuseppe,true
+1128,Mods,Armor,Civil Engineer Armor,Civil Engineer Jet Pack Armor,Sold by Giuseppe,true
 1129,Mods,Armor,Civil Engineer Armor,Civil Engineer Lead Lined Armor Torso,Quest: Regent of the Dead (Ending 2) | Sold By Giuseppe,true
 1130,Mods,Armor,Civil Engineer Armor,Civil Engineer Lighter Build Armor Torso,Sold by Giuseppe,true
 1131,Mods,Armor,Civil Engineer Armor,Civil Engineer Padded Armor Torso,Sold by Giuseppe,true
@@ -1107,7 +1107,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1142,Mods,Armor,Civil Engineer Armor,Civil Engineer Deep Pocketed Armor Limbs,Quest: Sins of the Father (Good Ending) | Sold By Giuseppe,true
 1143,Mods,Armor,Civil Engineer Armor,Civil Engineer Lead Lined Armor Limbs,Quest: Regent of the Dead (Ending 6) | Sold By Giuseppe,true
 1144,Mods,Armor,Civil Engineer Armor,Civil Engineer Lighter Build Armor Limbs,Quest: Hells Eagles,true
-1145,Mods,Armor,Civil Engineer Armor,Civil Engineer Muffled Armor Limbs,Sold by Giuseppe,true
+1145,Mods,Armor,Civil Engineer Armor,Civil Engineer Muffled Limbs,Sold by Giuseppe,true
 1146,Mods,Armor,Civil Engineer Armor,Civil Engineer Pocketed Armor Limbs,Sold by Giuseppe,true
 1147,Mods,Armor,Civil Engineer Armor,Civil Engineer Stabilized Armor Arms,Quest: Regent of the Dead (Ending 1) | Sold By Giuseppe,true
 1148,Mods,Armor,Civil Engineer Armor,Civil Engineer Strengthened Armor Limbs,Sold by Giuseppe,true
@@ -1134,7 +1134,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1176,Mods,Armor,Combat Armor,Pneumatic Combat Chest,Learn from scrapping: Combat Armor,true
 1177,Mods,Armor,Combat Armor,Pocketed Combat Armor Chest,Sold by Savage Divide & Toxic Valley Vendors,true
 1178,Mods,Armor,Combat Armor,Ultra-Light Build Combat Chest,Learn from scrapping: Combat Armor,true
-1179,Mods,Armor,Combat Armor,BoS Combat Arms,Sold by Toxic Valley Vendors,true
+1179,Mods,Armor,Combat Armor,BoS Combat Armor Arms,Sold by Toxic Valley Vendors,true
 1180,Mods,Armor,Combat Armor,Fiberglass Combat Arms,Learn from scrapping: Combat Armor,true
 1181,Mods,Armor,Combat Armor,Polymer Combat Arms,Learn from scrapping: Combat Armor,true
 1182,Mods,Armor,Combat Armor,Shadowed Combat Armor Arms,Sold by Toxic Valley Vendors,true
@@ -1149,7 +1149,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1191,Mods,Armor,Combat Armor,Strengthened Combat Armor Limbs,Sold by Savage Divide & Toxic Valley Vendors,true
 1192,Mods,Armor,Combat Armor,Ultra-Light Build Combat Armor Limbs,Sold by Toxic Valley Vendors,true
 1193,Mods,Armor,Combat Armor,Weighted Combat Arms,Learn from scrapping: Combat Armor,true
-1194,Mods,Armor,Combat Armor,BoS Combat Legs,Sold by Toxic Valley Vendors,true
+1194,Mods,Armor,Combat Armor,BoS Combat Armor Legs,Sold by Toxic Valley Vendors,true
 1195,Mods,Armor,Combat Armor,Fiberglass Combat Legs,Learn from scrapping: Combat Armor,true
 1196,Mods,Armor,Combat Armor,Polymer Combat Legs,Learn from scrapping: Combat Armor,true
 1197,Mods,Armor,Combat Armor,Shadowed Combat Armor Legs,Sold by Toxic Valley Vendors,true
@@ -1362,7 +1362,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1438,Mods,Melee Weapons,Board,Puncturing,Learn from scrapping: Board,true
 1439,Mods,Melee Weapons,Bowie Knife,Serrated Blade,Learn from scrapping: Combat Knife,true
 1440,Mods,Melee Weapons,Bowie Knife,Stealth Blade,Learn from scrapping: Combat Knife,true
-1441,Mods,Melee Weapons,Boxing Glove,Boxing Glove Lead Lined,Generic Events & Quests: Forest,true
+1441,Mods,Melee Weapons,Boxing Glove,Boxing Glove Lead Lining,Generic Events & Quests: Forest,true
 1442,Mods,Melee Weapons,Boxing Glove,Puncturing,Learn from scrapping: Boxing Glove,true
 1443,Mods,Melee Weapons,Boxing Glove,Spiked,Learn from scrapping: Boxing Glove,true
 1444,Mods,Melee Weapons,Chainsaw,Bow Bar,Learn from scrapping: Chainsaw,true
@@ -1959,7 +1959,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2035,Mods,Ranged Weapons,Compound Bow,Compound Bow Explosive Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
 2036,Mods,Ranged Weapons,Compound Bow,Compound Bow Flaming Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
 2037,Mods,Ranged Weapons,Compound Bow,Compound Bow Plasma Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
-2038,Mods,Ranged Weapons,Compound Bow,Compound Bow Poison Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
+2038,Mods,Ranged Weapons,Compound Bow,Compound Bow Poisoned Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
 2039,Mods,Ranged Weapons,Compound Bow,Compound Bow Ultracite Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
 2040,Mods,Ranged Weapons,Crossbow,Cryo Crossbow Frame,Sold by Ae-Ri (Friendly) & Sunny (Friendly),true
 2041,Mods,Ranged Weapons,Crossbow,Explosive Crossbow Frame,Sold by Ae-Ri (Friendly) & Sunny (Friendly),true
@@ -2316,7 +2316,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2392,Mods,Ranged Weapons,Pipe Bolt-Action,Hair Trigger Receiver,Learn from scrapping: Pipe Bolt-Action,true
 2393,Mods,Ranged Weapons,Pipe Bolt-Action,Hardened Receiver,Learn from scrapping: Pipe Bolt-Action,true
 2394,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Hasty .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
-2395,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Precise.38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
+2395,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Precise .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2396,Mods,Ranged Weapons,Pipe Bolt-Action,Prime Pipe Bolt-Action Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2397,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Refined .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2398,Mods,Ranged Weapons,Pipe Bolt-Action,Refined Receiver,Learn from scrapping: Pipe Bolt-Action,true
@@ -2344,12 +2344,12 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2420,Mods,Ranged Weapons,Pipe Bolt-Action,Stabilized Stock,Learn from scrapping: Pipe Bolt-Action,true
 2421,Mods,Ranged Weapons,Pipe Bolt-Action,True Stock,Learn from scrapping: Pipe Bolt-Action,true
 2422,Mods,Ranged Weapons,Pipe Bolt-Action,Glow Reflex Sight,Learn from scrapping: Pipe Bolt-Action,true
-2423,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt Action Long NV Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, Savage Divide, & Toxic Valley Vendors",true
+2423,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Long NV Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, Savage Divide, & Toxic Valley Vendors",true
 2424,Mods,Ranged Weapons,Pipe Bolt-Action,Long Recon Scope,Learn from scrapping: Pipe Bolt-Action,true
 2425,Mods,Ranged Weapons,Pipe Bolt-Action,Long Scope,Learn from scrapping: Pipe Bolt-Action,true
-2426,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt Action Medium NV Scope,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
+2426,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Medium NV Scope,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
 2427,Mods,Ranged Weapons,Pipe Bolt-Action,Medium Scope,Learn from scrapping: Pipe Bolt-Action,true
-2428,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt Action Short NV Scope,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
+2428,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Short NV Scope,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
 2429,Mods,Ranged Weapons,Pipe Bolt-Action,Short Recon Scope,Learn from scrapping: Pipe Bolt-Action,true
 2430,Mods,Ranged Weapons,Pipe Bolt-Action,Short Scope,Learn from scrapping: Pipe Bolt-Action,true
 2431,Mods,Ranged Weapons,Pipe Bolt-Action,Compensator,Learn from scrapping: Pipe Bolt-Action,true
@@ -2409,12 +2409,12 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2485,Mods,Ranged Weapons,Pipe Gun,Stinging Magazine,Learn from scrapping: Pipe Gun,true
 2486,Mods,Ranged Weapons,Pipe Gun,Swift Magazine,Learn from scrapping: Pipe Gun,true
 2487,Mods,Ranged Weapons,Pipe Gun,Glow Reflex Sight,Learn from scrapping: Pipe Gun,true
-2488,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Long NV Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
+2488,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Long Night Vision Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
 2489,Mods,Ranged Weapons,Pipe Gun,Long Recon Scope,Learn from scrapping: Pipe Gun,true
 2490,Mods,Ranged Weapons,Pipe Gun,Long Scope,Learn from scrapping: Pipe Gun,true
-2491,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Medium NV Scope,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
+2491,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Medium Night Vision Scope,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
 2492,Mods,Ranged Weapons,Pipe Gun,Medium Scope,Learn from scrapping: Pipe Gun,true
-2493,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Short NV Scope,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
+2493,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Short Night Vision Scope,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
 2494,Mods,Ranged Weapons,Pipe Gun,Short Recon Scope,Learn from scrapping: Pipe Gun,true
 2495,Mods,Ranged Weapons,Pipe Gun,Short Scope,Learn from scrapping: Pipe Gun,true
 2496,Mods,Ranged Weapons,Pipe Gun,Standard Glow Sights,Learn from scrapping: Pipe Gun,true
@@ -2429,7 +2429,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2505,Mods,Ranged Weapons,Pipe Revolver,Hair Trigger Receiver,Learn from scrapping: Pipe Revolver,true
 2506,Mods,Ranged Weapons,Pipe Revolver,Hardened Receiver,Learn from scrapping: Pipe Revolver,true
 2507,Mods,Ranged Weapons,Pipe Revolver,Pipe Revolver Hasty .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
-2508,Mods,Ranged Weapons,Pipe Revolver,Pipe Revolver Precise.38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
+2508,Mods,Ranged Weapons,Pipe Revolver,Pipe Revolver Precise .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2509,Mods,Ranged Weapons,Pipe Revolver,Prime Pipe Revolver Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2510,Mods,Ranged Weapons,Pipe Revolver,Pipe Revolver Refined .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2511,Mods,Ranged Weapons,Pipe Revolver,Refined Receiver,Learn from scrapping: Pipe Revolver,true
