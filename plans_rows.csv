@@ -3936,7 +3936,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4054,C.A.M.P,Decorations,Misc. Structures,Jackson Junkyard Sign,Event: Gearin` Up,true
 4055,C.A.M.P,Decorations,Displays,Mounted Armored Deathclaw Head,Event: Gearin` Up,true
 4056,C.A.M.P,Decorations,Misc. Structures,Trash Cube,Event: Gearin` Up,true
-4057,Weapons,,Melee,Super Stimpike,Event: Gearin` Up,true
+4057,Weapons,Melee,Sharp Weapons,Super Stimpike,Event: Gearin` Up,true
 4058,Clothing,Backpack,Backpacks,Egg Carrier Backpack,Event: Gearin` Up,true
 4059,C.A.M.P,Decorations,Floor Decor,Holiday Tree,Event: Holiday Scorched,true
 4060,Paints,,Ranged Weapons,Hunting Rifle Wrapping Paper Paint,Event: Holiday Scorched,true
@@ -3969,11 +3969,11 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4087,C.A.M.P,Decorations,Floor Decor,Abraxodyne Briefcase,Abraxodyne Intel Briefcase Reward (1 Collected),true
 4088,C.A.M.P,Utilities,Stash Boxes,Abraxodyne Stash Box,Abraxodyne Intel Briefcase Reward (3 Collected),true
 4089,C.A.M.P,Decorations,Floor Decor,Super Duper Mart Cooler,Abraxodyne Intel Briefcase Reward (25 Collected),true
-4090,Weapons,,Ranged,Meadow Breeze Sprayer,Abraxodyne Intel Briefcase Reward (76 Collected),true
+4090,Weapons,Ranged,Energy Guns,,Meadow Breeze Sprayer,Abraxodyne Intel Briefcase Reward (76 Collected),true
 4091,C.A.M.P,Furniture,Shelves,Super Duper Mart Store Shelf,Abraxodyne Intel Briefcase Reward (90 Collected),true
 4092,C.A.M.P,Decorations,Wall Decor,Abraxo HQ Wall Sign,Abraxodyne Intel Briefcase Reward (110 Collected),true
 4093,C.A.M.P,Decorations,Wall Decor,Rusted Abraxodyne Sign,Abraxodyne Intel Briefcase Reward (130 Collected),true
-4094,Weapons,,Ranged,Prototype ABX03,Abraxodyne Intel Briefcase Reward (145 Collected),true
+4094,Weapons,Ranged,Energy Guns,Prototype ABX03,Abraxodyne Intel Briefcase Reward (145 Collected),true
 4095,Clothing,Accessories,Outfits,Rust Raider Light Outfit,Quest: Welcoming Committee,true
 4096,Clothing,Accessories,Headwear,Deathclaw Tamer Hat,Event: Gearin` Up,true
 4097,Clothing,Accessories,Outfits,Deathclaw Tamer Outfit,Event: Gearin` Up,true
