@@ -1,21 +1,21 @@
 plan_id,item_type,item_name,section,name,location,obtainable
-1,Paints,Armor,Power Armor,Blue Camo Power Armor Paint,Event: Holiday Scorched,true
+1,Paints,Armor,Power Armor,Blue Camo Power Armor Paints,Event: Holiday Scorched,true
 2,Paints,Armor,Combat Armor,Blue Ridge Guardsman Paint,Quest: Costa Business (Libby),true
 3,Paints,Armor,Power Armor,Deep-Space Alien Power Armor Helmet Paint,Daily Ops (Rare),true
 4,Paints,Armor,Power Armor,Deep-Space Alien Power Armor Torso Paint,Daily Ops (Rare),true
 5,Paints,Armor,Power Armor,Deep-Space Alien Power Armor Arms Paint,Daily Ops (Rare),true
 6,Paints,Armor,Power Armor,Deep-Space Alien Power Armor Legs Paint,Daily Ops (Rare),true
-7,Paints,Armor,Power Armor,Deep-Space Alien Power Armor Jetpack Paint,Daily Ops (Rare),true
+7,Paints,Armor,Power Armor,Deep-Space Alien Power Armor Jetpack Skins,Daily Ops (Rare),true
 8,Paints,Armor,Power Armor,Hellfire Prototype Power Armor Paint,Sold by Minerva (Lists 19 & 20),true
 9,Paints,Armor,Power Armor,Hellfire V2 Prototype Power Armor Helmet Paint,Event: Spooky Scorched,true
 10,Paints,Armor,Power Armor,Hellfire V2 Prototype Power Armor Torso Paint,Event: Spooky Scorched,true
 11,Paints,Armor,Power Armor,Hellfire V2 Prototype Power Armor Arms Paint,Event: Spooky Scorched,true
 12,Paints,Armor,Power Armor,Hellfire V2 Prototype Power Armor Legs Paint,Event: Spooky Scorched,true
-13,Paints,Armor,Power Armor,Inferno Mark 1 Power Armor Paint,Event: Project Paradise,true
-14,Paints,Armor,Power Armor,Inferno Mark 2 Power Armor Paint,Event: Encryptid,true
-15,Paints,Armor,Power Armor,Inferno Mark 3 Power Armor Paint,Event: A Colossal Problem,true
-16,Paints,Armor,Power Armor,Outcast Power Armor Paint,Event: Scorched Earth,true
-17,Paints,Armor,Power Armor,Pink Sprinkles Power Armor Paint,Event: Treasure Hunter,true
+13,Paints,Armor,Power Armor,Inferno Mark 1 Power Armor Paints,Event: Project Paradise,true
+14,Paints,Armor,Power Armor,Inferno Mark 2 Power Armor Paints,Event: Encryptid,true
+15,Paints,Armor,Power Armor,Inferno Mark 3 Power Armor Paints,Event: A Colossal Problem,true
+16,Paints,Armor,Power Armor,Outcast Power Armor Paints,Event: Scorched Earth,true
+17,Paints,Armor,Power Armor,Pink Sprinkles Power Armor Paints,Event: Treasure Hunter,true
 18,Paints,Armor,Pip-Boy,Pip-Boy 2000 Mk VII Paint,Quest: Trade Secrets,true
 19,Paints,Armor,Power Armor,Prototype Steel Mill Paint,Quest: Fun & Games (Be Nice to Ra-Ra),true
 20,Paints,Armor,Power Armor,Slocum Joe's Power Armor Paint,Sold by Minerva (Lists 23 & 24),true
@@ -37,56 +37,56 @@ plan_id,item_type,item_name,section,name,location,obtainable
 36,Armor,Power Armor,Excavator,Excavator Left Leg,Quest: Miner Miracles,true
 37,Armor,Power Armor,Excavator,Excavator Right Arm,Quest: Miner Miracles,true
 38,Armor,Power Armor,Excavator,Excavator Right Leg,Quest: Miner Miracles,true
-39,Armor,Power Armor,Hellcat,Hellcat Helmet,Quest: The Catalyst,true
-40,Armor,Power Armor,Hellcat,Hellcat Torso,Quest: The Catalyst,true
+39,Armor,Power Armor,Hellcat,Hellcat Helm,Quest: The Catalyst,true
+40,Armor,Power Armor,Hellcat,Hellcat Chest Piece,Quest: The Catalyst,true
 41,Armor,Power Armor,Hellcat,Hellcat Left Arm,Quest: The Catalyst,true
 42,Armor,Power Armor,Hellcat,Hellcat Left Leg,Quest: The Catalyst,true
 43,Armor,Power Armor,Hellcat,Hellcat Right Arm,Quest: The Catalyst,true
 44,Armor,Power Armor,Hellcat,Hellcat Right Leg,Quest: The Catalyst,true
-45,Armor,Power Armor,Raider,Raider Power Helmet,Event: Test Your Metal,true
-46,Armor,Power Armor,Raider,Raider Power Torso,Event: Test Your Metal,true
-47,Armor,Power Armor,Raider,Raider Left Arm,Event: Test Your Metal,true
-48,Armor,Power Armor,Raider,Raider Left Leg,Event: Test Your Metal,true
-49,Armor,Power Armor,Raider,Raider Right Arm,Event: Test Your Metal,true
-50,Armor,Power Armor,Raider,Raider Right Leg,Event: Test Your Metal,true
+45,Armor,Power Armor,Raider,Raider Power Helm,Event: Test Your Metal,true
+46,Armor,Power Armor,Raider,Raider Power Chest Piece,Event: Test Your Metal,true
+47,Armor,Power Armor,Raider,Raider Power Left Arm,Event: Test Your Metal,true
+48,Armor,Power Armor,Raider,Raider Power Left Leg,Event: Test Your Metal,true
+49,Armor,Power Armor,Raider,Raider Power Right Arm,Event: Test Your Metal,true
+50,Armor,Power Armor,Raider,Raider Power Right Leg,Event: Test Your Metal,true
 51,Armor,Power Armor,Strangler,Strangler Heart Helmet,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
-52,Armor,Power Armor,Strangler,Strangler Heart Torso,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
+52,Armor,Power Armor,Strangler,Strangler Heart Chest Piece,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 53,Armor,Power Armor,Strangler,Strangler Heart Left Arm,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 54,Armor,Power Armor,Strangler,Strangler Heart Left Leg,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 55,Armor,Power Armor,Strangler,Strangler Heart Right Arm,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 56,Armor,Power Armor,Strangler,Strangler Heart Right Leg,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
-57,Armor,Power Armor,T-45,T-45 Helmet,Event: Test Your Metal,true
-58,Armor,Power Armor,T-45,T-45 Torso,Event: Test Your Metal,true
+57,Armor,Power Armor,T-45,T-45 Helm,Event: Test Your Metal,true
+58,Armor,Power Armor,T-45,T-45 Chest Piece,Event: Test Your Metal,true
 59,Armor,Power Armor,T-45,T-45 Left Arm,Event: Test Your Metal,true
 60,Armor,Power Armor,T-45,T-45 Left Leg,Event: Test Your Metal,true
 61,Armor,Power Armor,T-45,T-45 Right Arm,Event: Test Your Metal,true
 62,Armor,Power Armor,T-45,T-45 Right Leg,Event: Test Your Metal,true
-63,Armor,Power Armor,T-51b,T-51b Helmet,Event: Test Your Metal,true
-64,Armor,Power Armor,T-51b,T-51b Torso,Event: Test Your Metal,true
+63,Armor,Power Armor,T-51b,T-51b Helm,Event: Test Your Metal,true
+64,Armor,Power Armor,T-51b,T-51b Chest Piece,Event: Test Your Metal,true
 65,Armor,Power Armor,T-51b,T-51b Left Arm,Event: Test Your Metal,true
 66,Armor,Power Armor,T-51b,T-51b Left Leg,Event: Test Your Metal,true
 67,Armor,Power Armor,T-51b,T-51b Right Arm,Event: Test Your Metal,true
 68,Armor,Power Armor,T-51b,T-51b Right Leg,Event: Test Your Metal,true
-69,Armor,Power Armor,T-60,T-60 Helmet,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
+69,Armor,Power Armor,T-60,T-60 Helm,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 70,Armor,Power Armor,T-60,T-60 Chest Piece,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 71,Armor,Power Armor,T-60,T-60 Left Arm,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 72,Armor,Power Armor,T-60,T-60 Left Leg,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 73,Armor,Power Armor,T-60,T-60 Right Arm,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 74,Armor,Power Armor,T-60,T-60 Right Leg,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
-75,Armor,Power Armor,T-65,T-65 Helmet,Sold by Regs & Minerva (Lists 9 & 12),true
+75,Armor,Power Armor,T-65,T-65 Helm,Sold by Regs & Minerva (Lists 9 & 12),true
 76,Armor,Power Armor,T-65,T-65 Torso,Sold by Regs & Minerva (Lists 9 & 12),true
 77,Armor,Power Armor,T-65,T-65 Left Arm,Sold by Regs & Minerva (Lists 9 & 12),true
 78,Armor,Power Armor,T-65,T-65 Left Leg,Sold by Regs & Minerva (Lists 9 & 12),true
 79,Armor,Power Armor,T-65,T-65 Right Arm,Sold by Regs & Minerva (Lists 9 & 12),true
 80,Armor,Power Armor,T-65,T-65 Right Leg,Sold by Regs & Minerva (Lists 9 & 12),true
-81,Armor,Power Armor,Ultracite,Ultracite Helmet,Quest: Belly of the Beast,true
+81,Armor,Power Armor,Ultracite,Ultracite Helm,Quest: Belly of the Beast,true
 82,Armor,Power Armor,Ultracite,Ultracite Torso,Quest: Belly of the Beast,true
 83,Armor,Power Armor,Ultracite,Ultracite Left Arm,Quest: Belly of the Beast,true
 84,Armor,Power Armor,Ultracite,Ultracite Left Leg,Quest: Belly of the Beast,true
 85,Armor,Power Armor,Ultracite,Ultracite Right Arm,Quest: Belly of the Beast,true
 86,Armor,Power Armor,Ultracite,Ultracite Right Leg,Quest: Belly of the Beast,true
 87,Armor,Power Armor,Union,Union Helmet,Sold by Giuseppe,true
-88,Armor,Power Armor,Union,Union Torso,Sold by Giuseppe,true
+88,Armor,Power Armor,Union,Union Chest Piece,Sold by Giuseppe,true
 89,Armor,Power Armor,Union,Union Left Arm,Sold by Giuseppe,true
 90,Armor,Power Armor,Union,Union Left Leg,Sold by Giuseppe,true
 91,Armor,Power Armor,Union,Union Right Arm,Sold by Giuseppe,true
@@ -108,7 +108,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 107,Armor,Sets,Botsmith Armor,Botsmith Right Arm,Event: Test Your Metal,true
 108,Armor,Sets,Botsmith Armor,Botsmith Right Leg,Event: Test Your Metal,true
 109,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Helmet,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
-110,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Torso,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
+110,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Chest Piece,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
 111,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Left Arm,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
 112,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Left Leg,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
 113,Armor,Sets,Brotherhood Recon Armor,Brotherhood Recon Right Arm,Daily Ops (Rare) | Sold By Minerva (Lists 7 & 8),true
@@ -130,7 +130,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 129,Armor,Sets,Civil Engineer Armor,Civil Engineer Armor Right Arm,Quest: All the World's a Stage,true
 130,Armor,Sets,Civil Engineer Armor,Civil Engineer Armor Right Leg,Quest: Honor Bound,true
 131,Armor,Sets,Covert Scout Armor,Covert Scout Armor Mask,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
-132,Armor,Sets,Covert Scout Armor,Covert Scout Armor Torso,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
+132,Armor,Sets,Covert Scout Armor,Covert Scout Armor Chest Piece,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
 133,Armor,Sets,Covert Scout Armor,Covert Scout Armor Left Arm,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
 134,Armor,Sets,Covert Scout Armor,Covert Scout Armor Left Leg,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
 135,Armor,Sets,Covert Scout Armor,Covert Scout Armor Right Arm,Daily Ops (Rare) | Sold By Minerva (Lists 15 & 16),true
@@ -172,18 +172,18 @@ plan_id,item_type,item_name,section,name,location,obtainable
 171,Armor,Sets,Robot Armor,Sturdy Robot Arms,"Random Armor Plans: Ash Heap, Mire, & Savage | Divide Mutated Event Packages",true
 172,Armor,Sets,Robot Armor,Sturdy Robot Legs,"Random Armor Plans: Ash Heap, Mire, & Savage | Divide Mutated Event Packages",true
 173,Armor,Sets,Secret Service Armor,Secret Service Helmet,"Sold by Regs & Minerva (Lists 1, 4, 17, & 20)",true
-174,Armor,Sets,Secret Service Armor,Secret Service Torso,"Sold by Regs & Minerva (Lists 1, 4, 17, & 20)",true
+174,Armor,Sets,Secret Service Armor,Secret Service Chest Piece,"Sold by Regs & Minerva (Lists 1, 4, 17, & 20)",true
 175,Armor,Sets,Secret Service Armor,Secret Service Left Arm,"Sold by Regs & Minerva (Lists 1, 4, 17, & 20)",true
 176,Armor,Sets,Secret Service Armor,Secret Service Left Leg,"Sold by Regs & Minerva (Lists 1, 4, 17, & 20)",true
 177,Armor,Sets,Secret Service Armor,Secret Service Right Arm,"Sold by Regs & Minerva (Lists 1, 4, 17, & 20)",true
 178,Armor,Sets,Secret Service Armor,Secret Service Right Leg,"Sold by Regs & Minerva (Lists 1, 4, 17, & 20)",true
-179,Armor,Sets,Solar Armor,Solar Armor Torso,Sold by Regs & Minerva (Lists 11 & 12),true
+179,Armor,Sets,Solar Armor,Solar Armor Chest Piece,Sold by Regs & Minerva (Lists 11 & 12),true
 180,Armor,Sets,Solar Armor,Solar Armor Left Arm,Sold by Regs & Minerva (Lists 11 & 12),true
 181,Armor,Sets,Solar Armor,Solar Armor Left Leg,Sold by Regs & Minerva (Lists 11 & 12),true
 182,Armor,Sets,Solar Armor,Solar Armor Right Arm,Sold by Regs & Minerva (Lists 11 & 12),true
 183,Armor,Sets,Solar Armor,Solar Armor Right Leg,Sold by Regs & Minerva (Lists 11 & 12),true
 184,Armor,Sets,Thorn Armor,Vault 94 Scout Armor Mask,Sold by Regs,true
-185,Armor,Sets,Thorn Armor,Thorn Armor Torso,"Sold by Regs & Minerva (Lists 5, 8, 21, & 24)",true
+185,Armor,Sets,Thorn Armor,Thorn Armor Chest Piece,"Sold by Regs & Minerva (Lists 5, 8, 21, & 24)",true
 186,Armor,Sets,Thorn Armor,Thorn Armor Left Arm,"Sold by Regs & Minerva (Lists 5, 8, 21, & 24)",true
 187,Armor,Sets,Thorn Armor,Thorn Armor Left Leg,"Sold by Regs & Minerva (Lists 5, 8, 21, & 24)",true
 188,Armor,Sets,Thorn Armor,Thorn Armor Right Arm,"Sold by Regs & Minerva (Lists 5, 8, 21, & 24)",true
@@ -200,12 +200,12 @@ plan_id,item_type,item_name,section,name,location,obtainable
 199,C.A.M.P,Decorations,Allies,Sam Nguyen,Sold by Samuel (Ally),true
 200,C.A.M.P,Decorations,Allies,Grandma Junko,Sold by Samuel (Ally),true
 201,C.A.M.P,Decorations,Allies,Katherine Swan,Sold by Samuel (Ally),true
-202,C.A.M.P,Decorations,Allies,Wander's Guitar,Random Encounter,true
+202,C.A.M.P,Decorations,Allies,Wanderer's Guitar,Random Encounter,true
 203,C.A.M.P,Decorations,Allies,Forager's Chair,Random Encounter,true
 204,C.A.M.P,Decorations,Allies,Beckett's Bar,Quest: Narrow Escape,true
 205,C.A.M.P,Decorations,Allies,Raider Punk Radio,Random Encounter,true
 206,C.A.M.P,Decorations,Allies,U.S.S.A. Console,Quest: Crash Landing,true
-207,C.A.M.P,Decorations,Allies,Xero,Sold by Samuel (Ally),true
+207,C.A.M.P,Decorations,Allies,Xerxo,Sold by Samuel (Ally),true
 208,C.A.M.P,Decorations,Allies,Yasmin Chowdhury,Sold by Samuel (Ally),true
 209,C.A.M.P,Furniture,Appliances,Nuka-World Speakers,Nuka-Cade: Prize Terminal Lvl 4,true
 210,C.A.M.P,Furniture,Appliances,Military Cryo-Freezer,Sold by Mortimer (Cautious),true
@@ -318,20 +318,20 @@ plan_id,item_type,item_name,section,name,location,obtainable
 318,C.A.M.P,Decorations,Displays,Jewelry Stand Flair Display,Sold by Samuel (Cautious),true
 319,C.A.M.P,Decorations,Displays,Robot Beer Steins Display Case,Event: Test Your Metal,true
 320,C.A.M.P,Decorations,Displays,Beer Steins Display Case,"Events: Fasnacht Day, or Grahm's Meat-Cook",true
-321,C.A.M.P,Decorations,Displays,Herdsman's Bell Display Rack,Event: Fasnacht Day,true
+321,C.A.M.P,Decorations,Displays,Herdsman's Bell Display Rack - Basic,Event: Fasnacht Day,true
 322,C.A.M.P,Decorations,Floors,Vault Foundation & Upper Floor (Vault Building Set),Quest: Home Expansion,true
 323,C.A.M.P,Decorations,Floors,Farmable Dirt Tiles,Sold by Samuel (Friendly) & Minerva (17 & 20),true
-324,C.A.M.P,Decorations,Floor Decor,Mothman Cultist Insence Burner,Event: The Mothman Equinox,true
-325,C.A.M.P,Decorations,Floor Decor,Classic Jack-O'-Lantern,Event: Spooky Scorched,true
-326,C.A.M.P,Decorations,Floor Decor,Vault-Tec Jack-O'-Lantern,Event: Spooky Scorched,true
-327,C.A.M.P,Decorations,Floor Decor,Vault Boy Jack-O'-Lantern,Event: Spooky Scorched,true
-328,C.A.M.P,Decorations,Floor Decor,Vault Door Jack-O'-Lantern,Event: Spooky Scorched,true
-329,C.A.M.P,Decorations,Floor Decor,Suprised Jack-O'-Lantern,Event: Spooky Scorched,true
-330,C.A.M.P,Decorations,Floor Decor,Alien Jack-O'-Lantern,Event: Spooky Scorched,true
-331,C.A.M.P,Decorations,Floor Decor,Mobster Jack-O'-Lantern,Event: Spooky Scorched,true
-332,C.A.M.P,Decorations,Floor Decor,Happy Jack-O'-Lantern,Event: Spooky Scorched,true
-333,C.A.M.P,Decorations,Floor Decor,Practice Jack-O'-Lantern,Event: Spooky Scorched,true
-334,C.A.M.P,Decorations,Floor Decor,Evil Jack-O'-Lantern,Event: Spooky Scorched,true
+324,C.A.M.P,Decorations,Floor Decor,Mothman Cultist Incense Burner,Event: The Mothman Equinox,true
+325,C.A.M.P,Decorations,Floor Decor,Classic Jack O'Lantern,Event: Spooky Scorched,true
+326,C.A.M.P,Decorations,Floor Decor,Vault-Tec Jack O'Lantern,Event: Spooky Scorched,true
+327,C.A.M.P,Decorations,Floor Decor,Vault Boy Jack O'Lantern,Event: Spooky Scorched,true
+328,C.A.M.P,Decorations,Floor Decor,Vault Door Jack O'Lantern,Event: Spooky Scorched,true
+329,C.A.M.P,Decorations,Floor Decor,Surprised Jack O'Lantern,Event: Spooky Scorched,true
+330,C.A.M.P,Decorations,Floor Decor,Alien Jack O'Lantern,Event: Spooky Scorched,true
+331,C.A.M.P,Decorations,Floor Decor,Mobster Jack O'Lantern,Event: Spooky Scorched,true
+332,C.A.M.P,Decorations,Floor Decor,Happy Jack O'Lantern,Event: Spooky Scorched,true
+333,C.A.M.P,Decorations,Floor Decor,Practice Jack O'Lantern,Event: Spooky Scorched,true
+334,C.A.M.P,Decorations,Floor Decor,Evil Jack O'Lantern,Event: Spooky Scorched,true
 335,C.A.M.P,Decorations,Floor Decor,Ogua Egg,Event: Beasts of Burden,true
 336,C.A.M.P,Decorations,Floor Decor,Blue Ridge Toy Truck,Quest: Costa Business (Kieran),true
 337,C.A.M.P,Decorations,Floor Decor,Blue Ridge Rug,Event: Safe & Sound,true
@@ -342,7 +342,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 342,C.A.M.P,Decorations,Floor Decor,Pioneer Scout Banner: Tadpole,Sold by Tadpole Vending Machine,true
 343,C.A.M.P,Decorations,Floor Decor,Sea Animal Pillars,Weekly Expedition Reward: The Most Sensational Game | Sold By Giuseppe,true
 344,C.A.M.P,Decorations,Floor Decor,WV State Bird Rug,Event: Treasure Hunter,true
-345,C.A.M.P,Decorations,Floor Decor,Bouquet of Star Ballons,Event: Treasure Hunter,true
+345,C.A.M.P,Decorations,Floor Decor,Bouquet of Star Balloons,Event: Treasure Hunter,true
 346,C.A.M.P,Decorations,Floor Decor,Fasnacht Ribbons Pole 01,Event: Fasnacht Day,true
 347,C.A.M.P,Decorations,Floor Decor,Fasnacht Ribbons Pole 02,Event: Fasnacht Day,true
 348,C.A.M.P,Decorations,Floor Decor,Fasnacht Flag Pole 01,Event: Fasnacht Day,true
@@ -395,7 +395,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 395,C.A.M.P,Decorations,Floor Decor,Bottle Balloon,Sold by Chloe the Clown,true
 396,C.A.M.P,Decorations,Floor Decor,Tomb Stones,Event: Most Wanted,true
 397,C.A.M.P,Decorations,Floor Decor,Cappy & Bottle Cowboy Cutouts,Event: Most Wanted,true
-398,C.A.M.P,Decorations,Floor Decor,Poker Sets,Event: Most Wanted,true
+398,C.A.M.P,Decorations,Floor Decor,Poker Set,Event: Most Wanted,true
 399,C.A.M.P,Decorations,Floor Decor,Wild West Show Entrance Sign,Event: Most Wanted,true
 400,C.A.M.P,Decorations,Floor Decor,Nuka Girl Area Rug,Event: Holiday Scorched,true
 401,C.A.M.P,Decorations,Floor Decor,Fasnacht Balloons 01,Event: Fasnacht Day,true
@@ -435,10 +435,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 436,C.A.M.P,Decorations,Floor Decor,Circus Stilts,Event: Spin The Wheel,true
 437,C.A.M.P,Decorations,Floor Decor,Plastic Fruit Bowl,Event: Grahm's Meat-Cook,true
 438,C.A.M.P,Decorations,Floor Decor,Resort Vases,Sold by Pendleton,true
-439,C.A.M.P,Decorations,Floor Decor,Bottle & Cappy Painting Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
-440,C.A.M.P,Decorations,Floor Decor,Bottle & Cappy Walking Globe Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
-441,C.A.M.P,Decorations,Floor Decor,Bottle & Cappy Hoop Jump  Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
-442,C.A.M.P,Decorations,Floor Decor,Bottle & Cappy Balloon Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+439,C.A.M.P,Decorations,Floor Decor,Bottle and Cappy Painting Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+440,C.A.M.P,Decorations,Floor Decor,Bottle and Cappy Walking Globe Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+441,C.A.M.P,Decorations,Floor Decor,Bottle and Cappy Hoop Jump Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+442,C.A.M.P,Decorations,Floor Decor,Bottle and Cappy Balloon Statue,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
 443,C.A.M.P,Decorations,Floor Decor,Brahmin Plushie,Event: Holiday Scorched,true
 444,C.A.M.P,Decorations,Floor Decor,Wanamingo Plushie,Event: Treasure Hunter,true
 445,C.A.M.P,Decorations,Floor Decor,Wendigo Colossus Plushie,Event: A Colossal Problem,true
@@ -449,13 +449,13 @@ plan_id,item_type,item_name,section,name,location,obtainable
 450,C.A.M.P,Decorations,Floor Decor,Ogua Plushie,Event: Beasts of Burden,true
 451,C.A.M.P,Decorations,Floor Decor,Cappy Plush,Event: Spin The Wheel,true
 452,C.A.M.P,Decorations,Floor Decor,Bottle Plush,Event: Spin The Wheel,true
-453,C.A.M.P,Decorations,Floor Decor,Titan Plush,Event: Seismic Activity,true
+453,C.A.M.P,Decorations,Floor Decor,Titan Plushie,Event: Seismic Activity,true
 454,C.A.M.P,Decorations,Floor Decor,Punty Pig Plushie,Event: Grahm's Meat-Cook,true
 455,C.A.M.P,Decorations,Floor Decor,Peppino Pig Plushie,Event: Grahm's Meat-Cook,true
 456,C.A.M.P,Decorations,Floor Decor,Wilber McPigg Plushie,Event: Grahm's Meat-Cook,true
 457,C.A.M.P,Decorations,Floor Decor,Pink Brahmin Plushie,Event: Safe & Sound,true
-458,C.A.M.P,Decorations,Floor Decor,Lesser Devil Plushie,Weekly Expedition Reward: Tax Evasion | Sold By Giuseppe,true
-459,C.A.M.P,Decorations,Floor Decor,Fuzzy Enlighten Plushie,Event: The Mothman Equinox,true
+458,C.A.M.P,Decorations,Floor Decor,Lesser Devil Plushies,Weekly Expedition Reward: Tax Evasion | Sold By Giuseppe,true
+459,C.A.M.P,Decorations,Floor Decor,Fuzzy Enlightened Plushie,Event: The Mothman Equinox,true
 460,C.A.M.P,Decorations,Floor Decor,Fuzzy Mothman Plushie,Event: The Mothman Equinox,true
 461,C.A.M.P,Decorations,Floor Decor,Jersey Devil Plushie,Quest: Sins of the Father| Sold By Giuseppe,true
 462,C.A.M.P,Decorations,Floor Decor,Most Wanted Snow Globe,Event: Most Wanted,true
@@ -467,10 +467,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 468,C.A.M.P,Decorations,Floor Decor,Vault Boy,Overseer's Cache: Grafton,true
 469,C.A.M.P,Decorations,Floor Decor,Vault Girl,Overseer's Cache: Grafton,true
 470,C.A.M.P,Decorations,Floor Decor,Wooden Spinning Wheel,Sold by Pendleton,true
-471,C.A.M.P,Decorations,Floor Decor,Lawn Flamingos,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
+471,C.A.M.P,Decorations,Floor Decor,Lawn Flamingoes,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
 472,C.A.M.P,Decorations,Floor Decor,Gas Signage,Random Workshop Plans & Events: Any Region,true
 473,C.A.M.P,Decorations,Floor Decor,Scarecrows,Sold By Responder Vendors & Grahm,true
-474,C.A.M.P,Decorations,Floor Decor,Vaut-Tec Cardboard Standees,Overseer's Cache: Flatwoods,true
+474,C.A.M.P,Decorations,Floor Decor,Vault-Tec Cardboard Standees,Overseer's Cache: Flatwoods,true
 475,C.A.M.P,Decorations,Floor Decor,Grim Reaper Vault-Boy Cutout,Event: Spooky Scorched,true
 476,C.A.M.P,Decorations,Floor Decor,Whitespring Busts,Sold by Pendleton,true
 477,C.A.M.P,Decorations,Floor Decor,VTU Statue,Overseer's Cache: Morgantown Airport,true
@@ -496,15 +496,15 @@ plan_id,item_type,item_name,section,name,location,obtainable
 497,C.A.M.P,Utilities,Food,Tato Plant,Learned on Pickup: Tato,true
 498,C.A.M.P,Utilities,Generators,Windmill,Event: Powering Up,true
 499,C.A.M.P,Utilities,Generators,Vault Power Bank (Vault Building Set),Quest: Home Expansion,true
-500,C.A.M.P,Utilities,Generators,Scavanged Solar Pannel,"Daily Ops (Rare) | Sold By Minerva (Lists 2, 4, 18, & 20)",true
+500,C.A.M.P,Utilities,Generators,Scavenged Solar Panel,"Daily Ops (Rare) | Sold By Minerva (Lists 2, 4, 18, & 20)",true
 501,C.A.M.P,Utilities,Generators,Medium Generator,Claim a Workshop,true
 502,C.A.M.P,Utilities,Generators,Large Generator,"Event: Powering Up | Sold By Brotherhood, Free States, & Responders Vendors",true
 503,C.A.M.P,Utilities,Generators,Super Reactor,"Daily Ops (Rare) | Sold By Minerva (Lists 1, 4, 17, & 20)",true
 504,C.A.M.P,Utilities,Generators,Fusion Generator,"Event: Powering Up | Sold By Brotherhood, Free States, & Responders Vendors",true
 505,C.A.M.P,Building,Lights,Honeycomb Paper Ghost Lantern A,Event: Spooky Scorched,true
 506,C.A.M.P,Building,Lights,Honeycomb Paper Ghost Lantern B,Event: Spooky Scorched,true
-507,C.A.M.P,Building,Lights,Honeycomb Paper Jack-O'-Lantern A,Event: Spooky Scorched,true
-508,C.A.M.P,Building,Lights,Honeycomb Paper Jack-O'-Lantern B,Event: Spooky Scorched,true
+507,C.A.M.P,Building,Lights,Honeycomb Paper Jack O'Lantern A,Event: Spooky Scorched,true
+508,C.A.M.P,Building,Lights,Honeycomb Paper Jack O'Lantern B,Event: Spooky Scorched,true
 509,C.A.M.P,Building,Lights,Honeycomb Paper Spider Lantern,Event: Spooky Scorched,true
 510,C.A.M.P,Building,Lights,Honeycomb Paper Holiday Tree A,Event: Holiday Scorched,true
 511,C.A.M.P,Building,Lights,Honeycomb Paper Holiday Tree B,Event: Holiday Scorched,true
@@ -530,7 +530,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 534,C.A.M.P,Building,Lights,Elegant Light Set,Sold by Pendleton,true
 535,C.A.M.P,Building,Lights,Red Rocket Gas Pump Wall Light,Event: Holiday Scorched,true
 536,C.A.M.P,Building,Lights,Winter Icicle Lights,Event: Holiday Scorched,true
-537,C.A.M.P,Building,Lights,Pittsburg Industrial Floodlights Kits,Weekly Expedition Reward: From Ashes to Fire | Sold By Giuseppe,true
+537,C.A.M.P,Building,Lights,Pittsburgh Industrial Floodlights Kits,Weekly Expedition Reward: From Ashes to Fire | Sold By Giuseppe,true
 538,C.A.M.P,Building,Lights,Mezzanine Lights,Weekly Expedition Reward: The Most Sensational Game | Sold By Giuseppe,true
 539,C.A.M.P,Building,Lights,Table Lamps,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
 540,C.A.M.P,Building,Lights,Resort Lamps,Sold by Pendleton,true
@@ -539,18 +539,18 @@ plan_id,item_type,item_name,section,name,location,obtainable
 543,C.A.M.P,Building,Lights,Red Rocket Gas Station Lamp,Event: Holiday Scorched,true
 544,C.A.M.P,Building,Lights,Light Boxes,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
 545,C.A.M.P,Building,Lights,Caged Bulb Lights,Daily Ops (Uncommon),true
-546,C.A.M.P,Building,Lights,Signs & Letters,"Sold by Brotherhood & Raider Vendors, & Grahm",true
+546,C.A.M.P,Building,Lights,Signs and Letters,"Sold by Brotherhood & Raider Vendors, & Grahm",true
 547,C.A.M.P,Building,Lights,Open Neon Sign,Daily Ops (Uncommon) | Sold By Minerva (Lists 15 & 16),true
 548,C.A.M.P,Building,Lights,Mothman Bug Zapper,Event: The Mothman Equinox,true
 549,C.A.M.P,Building,Lights,Hello Neon Sign,Daily Ops (Uncommon) | Sold By Minerva (Lists 13 & 16),true
 550,C.A.M.P,Building,Lights,Marquee Arrows,Sold By Raider Vendors & Grahm,true
 551,C.A.M.P,Building,Lights,Mirror Ball,Sold by Grahm,true
-552,C.A.M.P,Building,Lights,Blue Mirror Ball,Sold by Grahm,true
-553,C.A.M.P,Building,Lights,Green Mirror Ball,Sold by Grahm,true
-554,C.A.M.P,Building,Lights,Pink Mirror Ball,Sold by Grahm,true
-555,C.A.M.P,Building,Lights,Red Mirror Ball,Sold by Grahm,true
+552,C.A.M.P,Building,Lights,Mirror Ball - Blue,Sold by Grahm,true
+553,C.A.M.P,Building,Lights,Mirror Ball - Green,Sold by Grahm,true
+554,C.A.M.P,Building,Lights,Mirror Ball - Pink,Sold by Grahm,true
+555,C.A.M.P,Building,Lights,Mirror Ball - Red,Sold by Grahm,true
 557,C.A.M.P,Building,Lights,Street Lights,"Sold By Brotherhood & Free States Vendors, & Grahm",true
-558,C.A.M.P,Decorations,Misc. Structures,Travelers Wagon,Event: Safe & Sound,true
+558,C.A.M.P,Decorations,Misc. Structures,Traveler's Wagon,Event: Safe & Sound,true
 559,C.A.M.P,Decorations,Misc. Structures,Canopy Tent,Event: Beasts of Burden,true
 560,C.A.M.P,Decorations,Misc. Structures,Crane Treasure Hunting Sign,Quest: Hunter for Hire,true
 561,C.A.M.P,Decorations,Misc. Structures,Fasnacht Hanging Snowflakes 01,Event: Fasnacht Day,true
@@ -582,9 +582,9 @@ plan_id,item_type,item_name,section,name,location,obtainable
 591,C.A.M.P,Decorations,Misc. Structures,Whac-A-Commie,Nuka-Cade Prize Terminal Lvl 5,true
 592,C.A.M.P,Decorations,Misc. Structures,Sympto-Matic,Daily Ops Reward (Level 50+) | Sold By Minerva (Lists 1 & 17),true
 593,C.A.M.P,Decorations,Misc. Structures,Aquarium Whale Display,Weekly Expedition Reward:  The Most Sensational Game | Sold By Giuseppe,true
-594,C.A.M.P,Decorations,Misc. Structures,Nuka-Cola Bottle Kiosk,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
+594,C.A.M.P,Decorations,Misc. Structures,Nuka Cola Bottle Kiosk,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
 595,C.A.M.P,Decorations,Misc. Structures,Nuka-Cola Crate Stalls,"Event: Most Wanted, Seismic Activity, Spin The Wheel, & Tunnel Of Love",true
-596,C.A.M.P,Decorations,Misc. Structures,Antique Speed Bag,Sold by Mortimer (Cautious),true
+596,C.A.M.P,Decorations,Misc. Structures,Speed Bag,Sold by Mortimer (Cautious),true
 597,C.A.M.P,Decorations,Misc. Structures,Weight Bench,Sold by Mortimer (Cautious),true
 598,C.A.M.P,Decorations,Misc. Structures,Exercise Bike,Sold by Mortimer (Cautious),true
 599,C.A.M.P,Decorations,Misc. Structures,Blackburn's Bungalow,Quest: A Satisfied Conscience,true
@@ -600,7 +600,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 609,C.A.M.P,Decorations,Misc. Structures,Giant Red Dinosaur,Event: Spooky Scorched,true
 610,C.A.M.P,Decorations,Misc. Structures,Arm Wrestle Machine,Sold by Mortimer (Cautious),true
 611,C.A.M.P,Decorations,Misc. Structures,Mechanical Derby Game,Sold by Mortimer (Cautious),true
-612,C.A.M.P,Decorations,Misc. Structures,Atlantic City Mechanical  Derby Game,Weekly Expedition Reward: Tax Evasion | Sold By Giuseppe,true
+612,C.A.M.P,Decorations,Misc. Structures,Atlantic City Mechanical Derby Game,Weekly Expedition Reward: Tax Evasion | Sold By Giuseppe,true
 613,C.A.M.P,Decorations,Misc. Structures,Overgrown Vehicle,Weekly Expedition Reward: The Human Condition| Sold By Giuseppe,true
 614,C.A.M.P,Decorations,Power Connectors,Advanced Power Connectors,Sold by Brotherhood & Free States Vendors,true
 615,C.A.M.P,Decorations,Power Connectors,Terminal,Sold by Brotherhood & Free States Vendors,true
@@ -639,14 +639,14 @@ plan_id,item_type,item_name,section,name,location,obtainable
 649,C.A.M.P,Utilities,Stash Boxes,Cooler,Sold By Raider Vendors & Grahm,true
 650,C.A.M.P,Utilities,Stash Boxes,Meat Bag Stash Box,"Daily Ops (Rare)| Sold By Minerva (Lists 9, 12, 23, & 24)",true
 651,C.A.M.P,Utilities,Stash Boxes,Suitcase,Sold By Raider Vendors & Grahm,true
-652,C.A.M.P,Utilities,Stash Boxes,Red Suitcase,Sold by Grahm,true
-653,C.A.M.P,Utilities,Stash Boxes,Blue Suitcase,Sold by Grahm,true
-654,C.A.M.P,Utilities,Stash Boxes,Green Suitcase,Sold by Grahm,true
-655,C.A.M.P,Utilities,Stash Boxes,Pink Suitcase,Sold by Grahm,true
-656,C.A.M.P,Utilities,Stash Boxes,Purple Suitcase,Sold by Grahm,true
-657,C.A.M.P,Utilities,Stash Boxes,Orange Suitcase,Sold by Grahm,true
-658,C.A.M.P,Utilities,Stash Boxes,Yellow Suitcase,Sold by Grahm,true
-659,C.A.M.P,Utilities,Stash Boxes,Black Suitcase,Sold by Grahm,true
+652,C.A.M.P,Utilities,Stash Boxes,Suitcase - Red,Sold by Grahm,true
+653,C.A.M.P,Utilities,Stash Boxes,Suitcase - Blue,Sold by Grahm,true
+654,C.A.M.P,Utilities,Stash Boxes,Suitcase - Green,Sold by Grahm,true
+655,C.A.M.P,Utilities,Stash Boxes,Suitcase - Pink,Sold by Grahm,true
+656,C.A.M.P,Utilities,Stash Boxes,Suitcase - Purple,Sold by Grahm,true
+657,C.A.M.P,Utilities,Stash Boxes,Suitcase - Orange,Sold by Grahm,true
+658,C.A.M.P,Utilities,Stash Boxes,Suitcase - Yellow,Sold by Grahm,true
+659,C.A.M.P,Utilities,Stash Boxes,Suitcase - Black,Sold by Grahm,true
 660,C.A.M.P,Utilities,Stash Boxes,Toolbox,Sold By Raider Vendors & Grahm,true
 661,C.A.M.P,Utilities,Stash Boxes,Large Toolbox,"Random Workshop Plans & Events: Any Region | Sold By Brotherhood & Free States Vendors, & Grahm",true
 662,C.A.M.P,Utilities,Stash Boxes,Pre-War Safe,Sold By Raider Vendors & Grahm,true
@@ -657,7 +657,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 667,C.A.M.P,Utilities,Stash Boxes,Trash Can,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
 668,C.A.M.P,Utilities,Stash Boxes,Elegant Tables,Sold by Pendleton,true
 669,C.A.M.P,Utilities,Stash Boxes,Metal Box,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
-670,C.A.M.P,Utilities,Stash Boxes,Floor Safe (Flat),"Sold By Brotherhood & Free States Vendors, & Grahm",true
+670,C.A.M.P,Utilities,Stash Boxes,Floor Safe,"Sold By Brotherhood & Free States Vendors, & Grahm",true
 671,C.A.M.P,Utilities,Stash Boxes,Dumpster,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
 672,C.A.M.P,Utilities,Stash Boxes,Bear-Proof Trashcan,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
 673,C.A.M.P,Utilities,Stash Boxes,Pre-War Dressers,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
@@ -696,11 +696,11 @@ plan_id,item_type,item_name,section,name,location,obtainable
 706,C.A.M.P,Furniture,Tables,High-Tech Table,Random Workshop Plans & Events: Any Region | Sold By Brotherhood Vendors,true
 707,C.A.M.P,Furniture,Tables,Brotherhood Roundtable,Quest: Forging Trust,true
 708,C.A.M.P,Furniture,Tables,Metal Picnic Table,Sold by Grahm,true
-709,C.A.M.P,Furniture,Tables,Picnic Table - Blue,Sold by Grahm,true
-710,C.A.M.P,Furniture,Tables,Picnic Table - Green,Sold by Grahm,true
-711,C.A.M.P,Furniture,Tables,Picnic Table - Pink,Sold by Grahm,true
-712,C.A.M.P,Furniture,Tables,Picnic Table - Red,Sold by Grahm,true
-713,C.A.M.P,Furniture,Tables,Picnic Table - White,Sold by Grahm,true
+709,C.A.M.P,Furniture,Tables,Metal Picnic Table Blue,Sold by Grahm,true
+710,C.A.M.P,Furniture,Tables,Metal Picnic Table Green,Sold by Grahm,true
+711,C.A.M.P,Furniture,Tables,Metal Picnic Table Pink,Sold by Grahm,true
+712,C.A.M.P,Furniture,Tables,Metal Picnic Table Red,Sold by Grahm,true
+713,C.A.M.P,Furniture,Tables,Metal Picnic Table White,Sold by Grahm,true
 714,C.A.M.P,Structures,Turrets & Traps,Tesla Arc Trap,Quest: Coming to Fruition,true
 715,C.A.M.P,Structures,Turrets & Traps,Flamethrower Trap,Quest: Coming to Fruition,true
 716,C.A.M.P,Structures,Turrets & Traps,Radiation Emitter,Sold by Grahm,true
@@ -708,18 +708,18 @@ plan_id,item_type,item_name,section,name,location,obtainable
 718,C.A.M.P,Decorations,Wall Decor,Fasnacht Party Streamers 02,Event: Fasnacht Day,true
 719,C.A.M.P,Decorations,Wall Decor,Fasnacht Branch Garland 01,Event: Fasnacht Day,true
 720,C.A.M.P,Decorations,Wall Decor,Fasnacht Branch Garland 02,Event: Fasnacht Day,true
-721,C.A.M.P,Decorations,Wall Decor,Fasnacht Helvetica Garland 01,Event: Fasnacht Day,true
-722,C.A.M.P,Decorations,Wall Decor,Fasnacht Helvetica Garland 02,Event: Fasnacht Day,true
+721,C.A.M.P,Decorations,Wall Decor,Fasnacht Helvetia Garland 01,Event: Fasnacht Day,true
+722,C.A.M.P,Decorations,Wall Decor,Fasnacht Helvetia Garland 02,Event: Fasnacht Day,true
 723,C.A.M.P,Decorations,Wall Decor,Science Chalkboards,Daily Ops (Uncommon) | Sold By Minerva (Lists 11 & 12),true
 724,C.A.M.P,Decorations,Wall Decor,Fasnacht Mounted Ribbons 01,Event: Fasnacht Day,true
 725,C.A.M.P,Decorations,Wall Decor,Fasnacht Mounted Ribbons 02,Event: Fasnacht Day,true
-726,C.A.M.P,Decorations,Wall Decor,Fasnacht Mounted Flags 01,Event: Fasnacht Day,true
-727,C.A.M.P,Decorations,Wall Decor,Fasnacht Mounted Flags 02,Event: Fasnacht Day,true
+726,C.A.M.P,Decorations,Wall Decor,Fasnacht Mounted Flag 01,Event: Fasnacht Day,true
+727,C.A.M.P,Decorations,Wall Decor,Fasnacht Mounted Flag 02,Event: Fasnacht Day,true
 728,C.A.M.P,Decorations,Wall Decor,Rust Eagle Banner,Event: Test Your Metal,true
 729,C.A.M.P,Decorations,Wall Decor,Modern Paintings,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
 730,C.A.M.P,Decorations,Wall Decor,Resort Paintings,Sold by Pendleton,true
 731,C.A.M.P,Decorations,Wall Decor,Dried Wildflower Bouquet,Event: The Mothman Equinox,true
-732,C.A.M.P,Decorations,Wall Decor,Advertisment Posters,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
+732,C.A.M.P,Decorations,Wall Decor,Advertisement Posters,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
 733,C.A.M.P,Decorations,Wall Decor,Unstoppables! Posters,Sold By Raider Vendors & Grahm,true
 734,C.A.M.P,Decorations,Wall Decor,Communism Posters,"Sold By Brotherhood & Free States Vendors, & Grahm",true
 735,C.A.M.P,Decorations,Wall Decor,Sheepsquatch Poster,Quest: Protocol Adonai,true
@@ -731,7 +731,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 741,C.A.M.P,Decorations,Wall Decor,Super Mutant Diagram,Event: Grahm's Meat-Cook,true
 742,C.A.M.P,Decorations,Wall Decor,BoS Medallion,Daily Ops (Uncommon) | Sold By Minerva (Lists 13 & 16),true
 743,C.A.M.P,Decorations,Wall Decor,Blue Ridge Caravan Flag,Event: Riding Shotgun,true
-744,C.A.M.P,Decorations,Wall Decor,Neopolitan Exterior Sign,Weekly Expedition Reward: Tax Evasion | Sold By Giuseppe,true
+744,C.A.M.P,Decorations,Wall Decor,Neapolitan Exterior Sign,Weekly Expedition Reward: Tax Evasion | Sold By Giuseppe,true
 745,C.A.M.P,Decorations,Wall Decor,Quentino's Sign,Weekly Expedition Reward: Tax Evasion | Sold By Giuseppe,true
 746,C.A.M.P,Decorations,Wall Decor,Game Show Sign,Weekly Expedition Reward:  The Most Sensational Game | Sold By Giuseppe,true
 747,C.A.M.P,Decorations,Wall Decor,U.S. Flag,Sold by Responder Vendors,true
@@ -745,7 +745,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 755,C.A.M.P,Decorations,Wall Decor,Elegant Wall Clock,Sold by Pendleton,true
 756,C.A.M.P,Decorations,Wall Decor,Neon Light Diner Clock,Event: Treasure Hunter,true
 757,C.A.M.P,Decorations,Wall Decor,Kids Brahmin Clock,Event: Safe & Sound,true
-758,C.A.M.P,Decorations,Wall Decor,Molerat Wind Chimes,Event: Holiday Scorched,true
+758,C.A.M.P,Decorations,Wall Decor,Molerat Wind Chime,Event: Holiday Scorched,true
 759,C.A.M.P,Decorations,Wall Decor,Cryptid Mobile,Event: Beasts of Burden,true
 760,C.A.M.P,Decorations,Wall Decor,Small Letters Set,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
 761,C.A.M.P,Decorations,Wall Decor,Greek Letters Set,Quest: Tipsy Taste-Test Quest: Wasted on Alcohol,true
@@ -807,8 +807,8 @@ plan_id,item_type,item_name,section,name,location,obtainable
 818,C.A.M.P,Utilities,Water,Vintage Water Cooler,Event: Holiday Scorched,true
 819,C.A.M.P,Utilities,Water,Water Well,"Sold by Samuel (Neighborly) & Minerva (Lists 6, 8, 14, 16, 22, & 24)",true
 820,C.A.M.P,Utilities,Water,Water Pump,Overseer's Caches (Except Overseer's Camp),true
-821,C.A.M.P,Utilities,Water,Pitsburg Street Kit,Weekly Expedition Reward: From Ashes to Fire | Sold By Giuseppe,true
-822,C.A.M.P,Utilities,Water,Small Water Purifier,Claim a Workshop | Sold By Responder Vendors,true
+821,C.A.M.P,Utilities,Water,Pittsburgh Street Kit,Weekly Expedition Reward: From Ashes to Fire | Sold By Giuseppe,true
+822,C.A.M.P,Utilities,Water,Water Purifier - Small,Claim a Workshop | Sold By Responder Vendors,true
 823,C.A.M.P,Utilities,Water,Large Water Purifier,Overseer's Cache at Camp McClintlock | Sold By Responder Vendors,true
 824,C.A.M.P,Utilities,Water,Water Purifier,Overseer's Cache at Charleston DMV | Sold By Responder Vendors,true
 825,C.A.M.P,Utilities,Water,Junkyard Fountain,Event: Treasure Hunter,true
@@ -821,13 +821,13 @@ plan_id,item_type,item_name,section,name,location,obtainable
 832,Clothing,Backpack,Material,Camo Backpack,Event: Treasure Hunter,true
 833,Clothing,Backpack,Material,Chally the Moo-Moo Backpack,Event: Grahm's Meat-Cook,true
 834,Clothing,Backpack,Material,Cultist Backpack,Event: The Mothman Equinox,true
-835,Clothing,Backpack,Material,Ouga Shell Backpack,Event: Beasts of Burden,true
+835,Clothing,Backpack,Material,Ogua Shell Backpack,Event: Beasts of Burden,true
 836,Clothing,Backpack,Material,Pioneer Scout Possum Backpack,Sold by Possum Vending Machine,true
-837,Clothing,Backpack,Material,Pioneer Scouts: Tadpole Backpack,Quest: The Order of the Tadpole,true
+837,Clothing,Backpack,Material,Pioneer Scout Tadpole Backpack,Quest: The Order of the Tadpole,true
 838,Clothing,Backpack,Material,Princess Backpack,Event: Spooky Scorched,true
 839,Clothing,Backpack,Material,Safari Crocolossus Backpack,Event: Treasure Hunter,true
 840,Clothing,Backpack,Material,Safari Gorilla Backpack,Event: Treasure Hunter,true
-841,Clothing,Backpack,Material,Vault-Tech Survival Backpack,Sold by June Seaver,true
+841,Clothing,Backpack,Material,Vault-Tec Survival Backpack,Sold by June Seaver,true
 842,Clothing,Backpack,Material,Wasteland Hunter Backpack,Event: Grahm's Meat-Cook,true
 843,Mods,Armor,Backpack,Backpack Armor Plated Mod,Sold by Possum Vending Machine,true
 844,Mods,Armor,Backpack,Chemist's backpack Mod,Sold by Mortimer (Friendly) & Minerva (Lists 1 & 17),true
@@ -854,7 +854,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 867,Clothing,Accessories,Headwear,Enforcer's Cap,Weekly Expedition Reward: The Human Condition,true
 868,Clothing,Accessories,Headwear,Executioner Mask,Event: Spooky Scorched,true
 869,Clothing,Accessories,Headwear,Gladiator Mask,Event: Project Paradise,true
-870,Clothing,Accessories,Headwear,Halloween Costume Witch Hat,Random Encounter (Witch Trick-or-Treater) | Mutated Event Packages,true
+870,Clothing,Accessories,Headwear,Costume Witch Hat,Random Encounter (Witch Trick-or-Treater) | Mutated Event Packages,true
 871,Clothing,Accessories,Headwear,Halloween Skull Mask,Random Encounter (Skeleton Trick-or-Treater) | Mutated Event Packages,true
 872,Clothing,Accessories,Headwear,Insurgent Hat,Event: Treasure Hunter,true
 873,Clothing,Accessories,Headwear,Apocalyptic Farmer Headwear,Weekly Expedition Reward: The Human Condition | Sold By Giuseppe,true
@@ -876,14 +876,14 @@ plan_id,item_type,item_name,section,name,location,obtainable
 889,Clothing,Accessories,Helmets,Rad Skull Rider Helmet,Event: Spooky Scorched,true
 890,Clothing,Accessories,Helmets,Makeshift Ronin Helmet,Event: Encryptid,true
 892,Clothing,Accessories,Helmets,Arctic Marine Armor Helmet,Daily Ops (Rare) | Sold By Minerva (Lists 23 & 24),true
-893,Clothing,Accessories,Helmets,Assaultron Helmet,Scrapping: Assultron Head,true
+893,Clothing,Accessories,Helmets,Assaultron Helmet,scrapping: Assaultron Head,true
 894,Clothing,Accessories,Helmets,Chinese Stealth Helmet,"Quest: Invisible Ties | Sold By Samuel (Neighborly) & Minerva (Lists 3, 4, 19, & 20)",true
-895,Clothing,Accessories,Helmets,Combat Armor Helmet,Scrapping: Combat Armor Helmet,true
-896,Clothing,Accessories,Helmets,Eyebot Helmet,Scrapping: Military Grade Circuitboard,true
+895,Clothing,Accessories,Helmets,Combat Armor Helmet,scrapping: Combat Armor Helmet,true
+896,Clothing,Accessories,Helmets,Eyebot Helmet,scrapping: Military Grade Circuitboard,true
 897,Clothing,Accessories,Helmets,Marine Armor Helmet,Event: Treasure Hunter,true
 898,Clothing,Accessories,Helmets,Marine Tactical Helmet,Random Armor Plans: Ash Heap & Cranberry Bog,true
-899,Clothing,Accessories,Helmets,Metal Helmet,Scrapping: Metal Helmet,true
-900,Clothing,Accessories,Helmets,Sentry Bot Helmet,Scrapping: Military Grade Circuitboard,true
+899,Clothing,Accessories,Helmets,Metal Helmet,scrapping: Metal Helmet,true
+900,Clothing,Accessories,Helmets,Sentry Bot Helmet,scrapping: Military Grade Circuitboard,true
 901,Clothing,Accessories,Outfits,Apocalyptic Farmer Outfit,Weekly Expedition Reward: The Human Condition | Sold By Giuseppe,true
 902,Clothing,Accessories,Outfits,Blue Devil Outfit,Event: Safe & Sound,true
 903,Clothing,Accessories,Outfits,Blue Ridge Scout Outfit,Event: Beasts of Burden,true
@@ -893,14 +893,14 @@ plan_id,item_type,item_name,section,name,location,obtainable
 907,Clothing,Accessories,Outfits,Confederate Uniform,Civil War Re-enactor,true
 908,Clothing,Accessories,Outfits,Cowboy Chaps,Daily Ops (Uncommon),true
 909,Clothing,Accessories,Outfits,Cowboy Duster,Daily Ops (Uncommon),true
-910,Clothing,Accessories,Outfits,Cultist Adept Robe,Event: The Mothman Equinox,true
-911,Clothing,Accessories,Outfits,Cultist Enlightened Robe,Event: The Mothman Equinox,true
-912,Clothing,Accessories,Outfits,Cultist Eventide Robe,Event: The Mothman Equinox,true
-913,Clothing,Accessories,Outfits,Cultist Neophyte Robe,Event: The Mothman Equinox,true
+910,Clothing,Accessories,Outfits,Cultist Adept Robes,Event: The Mothman Equinox,true
+911,Clothing,Accessories,Outfits,Cultist Enlightened Robes,Event: The Mothman Equinox,true
+912,Clothing,Accessories,Outfits,Cultist Eventide Robes,Event: The Mothman Equinox,true
+913,Clothing,Accessories,Outfits,Cultist Neophyte Robes,Event: The Mothman Equinox,true
 914,Clothing,Accessories,Outfits,Enforcer's Outfit,Weekly Expedition Reward: The Human Condition,true
 915,Clothing,Accessories,Outfits,Garb of Mysteries,Quest: Initiate of Mysteries,true
-916,Clothing,Accessories,Outfits,Skeleton Costumes (Halloween),Random Encounter (Skeleton Trick-or-Treater) | Mutated Event Packages,true
-917,Clothing,Accessories,Outfits,Witch Costume (Halloween),Random Encounter (Witch Trick-or-Treater) | Mutated Event Packages,true
+916,Clothing,Accessories,Outfits,Skeleton Costume,Random Encounter (Skeleton Trick-or-Treater) | Mutated Event Packages,true
+917,Clothing,Accessories,Outfits,Witch Costume,Random Encounter (Witch Trick-or-Treater) | Mutated Event Packages,true
 918,Clothing,Accessories,Outfits,Hazmat Suit,Sold by Responders Vendors,true
 919,Clothing,Accessories,Outfits,Insurgent Outfit,Event: Treasure Hunter,true
 921,Clothing,Accessories,Outfits,Mercenary Outfit,Quest: Missing Persons,true
@@ -929,18 +929,18 @@ plan_id,item_type,item_name,section,name,location,obtainable
 944,Clothing,,Underarmor,BOS Officer Uniform,Random Armor Plans: Cranberry Bog,true
 945,Clothing,,Underarmor,BOS Soldier Uniform,Random Armor Plans: Cranberry Bog,true
 946,Clothing,,Underarmor,Civil Engineer Underarmor,Weekly Expedition Reward: The Human Condition | Sold By Giuseppe,true
-947,Clothing,,Underarmor,Flannel Shirt & Jeans,Random Armor Plans: Mire,true
+947,Clothing,,Underarmor,Flannel Shirt and Jeans,Random Armor Plans: Mire,true
 948,Clothing,,Underarmor,Harness,Sold by Raider Vendors,true
 949,Clothing,,Underarmor,Long Johns,Sold by Raider Vendors,true
 950,Clothing,,Underarmor,Marine Wetsuit,"Random Armor Plans: Ash Heap, Cranberry Bog, Mire, & Savage Divide",true
-951,Clothing,,Underarmor,Raiders Leathers,Sold by Raider Vendors,true
+951,Clothing,,Underarmor,Raider Leathers,Sold by Raider Vendors,true
 952,Clothing,,Underarmor,Road Leathers,Sold by Raider Vendors,true
 953,Clothing,,Underarmor,Secret Service Underarmor,"Sold by Regs & Minerva (Lists 6, 8, 22, & 24)",true
 954,Clothing,,Underarmor,Undershirt & Jeans,Random Armor Plans: Mire,true
 955,Clothing,,Underarmor,Vault 51 Jumpsuit,Event: Holiday Scorched,true
 956,Clothing,,Underarmor,Vault 76 Jumpsuit,Random Armor Plans: Forest,true
 957,Clothing,,Underarmor,Vault 94 Jumpsuit,Daily Ops (Uncommon),true
-958,Clothing,,Underarmor,Vault Tech University Jumpsuit,Random Armor Plans: Toxic Valley,true
+958,Clothing,,Underarmor,Vault Tec University Jumpsuit,Random Armor Plans: Toxic Valley,true
 959,Mods,Underarmor,BoS Underarmor,Treated Lining BoS Underarmor,Sold By Brotherhood Vendors,true
 960,Mods,Underarmor,BoS Underarmor,Resistant Lining BoS Underarmor,Sold by Brotherhood Vendors,true
 961,Mods,Underarmor,BoS Underarmor,Protective Lining BoS Underarmor,Quest: Defiance Has Fallen,true
@@ -1070,10 +1070,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1098,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Lead Lined Armor Limbs,Sold by Regs,true
 1099,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Lighter Build Armor Limbs,Sold by Regs,true
 1100,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Muffled Armor Limbs,Sold by Regs,true
-1101,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Pocketed Armor Limbs,Sold by Regs & Minerva (Lists 10 & 12),true
+1101,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Pocketed Armor Limb,Sold by Regs & Minerva (Lists 10 & 12),true
 1102,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Stabilized Armor Arms,Sold by Regs,true
 1103,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Strengthened Armor Limbs,Sold by Regs,true
-1104,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Ultra-Light Build Armor Limbs,Sold by Regs,true
+1104,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Ultra-Light Build Limbs,Sold by Regs,true
 1105,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Weighted Armor Arms,Sold by Regs,true
 1106,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Buttressed Armor Legs,Sold by Regs,true
 1107,Mods,Armor,Brotherhood Recon Armor,Brotherhood Recon Hardened Armor Legs,Sold by Regs,true
@@ -1090,7 +1090,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1125,Mods,Armor,Civil Engineer Armor,Civil Engineer BioCommMesh Armor Torso,Sold by Giuseppe,true
 1126,Mods,Armor,Civil Engineer Armor,Civil Engineer Deep Pocketed Armor Torso,Sold by Giuseppe,true
 1127,Mods,Armor,Civil Engineer Armor,Civil Engineer Dense Armor Torso,Sold by Giuseppe,true
-1128,Mods,Armor,Civil Engineer Armor,Civil Engineer Jet Pack,Sold by Giuseppe,true
+1128,Mods,Armor,Civil Engineer Armor,Civil Engineer Jet Pack Armor,Sold by Giuseppe,true
 1129,Mods,Armor,Civil Engineer Armor,Civil Engineer Lead Lined Armor Torso,Quest: Regent of the Dead (Ending 2) | Sold By Giuseppe,true
 1130,Mods,Armor,Civil Engineer Armor,Civil Engineer Lighter Build Armor Torso,Sold by Giuseppe,true
 1131,Mods,Armor,Civil Engineer Armor,Civil Engineer Padded Armor Torso,Sold by Giuseppe,true
@@ -1107,7 +1107,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1142,Mods,Armor,Civil Engineer Armor,Civil Engineer Deep Pocketed Armor Limbs,Quest: Sins of the Father (Good Ending) | Sold By Giuseppe,true
 1143,Mods,Armor,Civil Engineer Armor,Civil Engineer Lead Lined Armor Limbs,Quest: Regent of the Dead (Ending 6) | Sold By Giuseppe,true
 1144,Mods,Armor,Civil Engineer Armor,Civil Engineer Lighter Build Armor Limbs,Quest: Hells Eagles,true
-1145,Mods,Armor,Civil Engineer Armor,Civil Engineer Muffled Armor Limbs,Sold by Giuseppe,true
+1145,Mods,Armor,Civil Engineer Armor,Civil Engineer Muffled Limbs,Sold by Giuseppe,true
 1146,Mods,Armor,Civil Engineer Armor,Civil Engineer Pocketed Armor Limbs,Sold by Giuseppe,true
 1147,Mods,Armor,Civil Engineer Armor,Civil Engineer Stabilized Armor Arms,Quest: Regent of the Dead (Ending 1) | Sold By Giuseppe,true
 1148,Mods,Armor,Civil Engineer Armor,Civil Engineer Strengthened Armor Limbs,Sold by Giuseppe,true
@@ -1123,7 +1123,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1165,Mods,Armor,Combat Armor,BoS Combat Armor Chest Piece,Sold by Toxic Valley Vendors,true
 1166,Mods,Armor,Combat Armor,Fiberglass Combat Chest,Learn from scrapping: Combat Armor,true
 1167,Mods,Armor,Combat Armor,Polymer Combat Chest,Learn from scrapping: Combat Armor,true
-1168,Mods,Armor,Combat Armor,Shadowed Combat Armor Chest Piece,Sold by Toxic Valley Vendors,true
+1168,Mods,Armor,Combat Armor,Shadowed Combat Armor Chest,Sold by Toxic Valley Vendors,true
 1169,Mods,Armor,Combat Armor,Asbestos Lining Combat Chest,Learn from scrapping: Combat Armor,true
 1170,Mods,Armor,Combat Armor,BioCommMesh Combat Armor Lining,Sold by Toxic Valley Vendors,true
 1171,Mods,Armor,Combat Armor,Deep Pocketed Combat Armor Chest,Sold by Toxic Valley Vendors,true
@@ -1134,10 +1134,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1176,Mods,Armor,Combat Armor,Pneumatic Combat Chest,Learn from scrapping: Combat Armor,true
 1177,Mods,Armor,Combat Armor,Pocketed Combat Armor Chest,Sold by Savage Divide & Toxic Valley Vendors,true
 1178,Mods,Armor,Combat Armor,Ultra-Light Build Combat Chest,Learn from scrapping: Combat Armor,true
-1179,Mods,Armor,Combat Armor,BoS Combat Arms,Sold by Toxic Valley Vendors,true
+1179,Mods,Armor,Combat Armor,BoS Combat Armor Arms,Sold by Toxic Valley Vendors,true
 1180,Mods,Armor,Combat Armor,Fiberglass Combat Arms,Learn from scrapping: Combat Armor,true
 1181,Mods,Armor,Combat Armor,Polymer Combat Arms,Learn from scrapping: Combat Armor,true
-1182,Mods,Armor,Combat Armor,Shadowed Combat Arms,Sold by Toxic Valley Vendors,true
+1182,Mods,Armor,Combat Armor,Shadowed Combat Armor Arms,Sold by Toxic Valley Vendors,true
 1183,Mods,Armor,Combat Armor,Aerodynamic Combat Arms,Learn from scrapping: Combat Armor,true
 1184,Mods,Armor,Combat Armor,Braced Combat Arms,Learn from scrapping: Combat Armor,true
 1185,Mods,Armor,Combat Armor,Brawling Combat Arms,Learn from scrapping: Combat Armor,true
@@ -1149,10 +1149,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1191,Mods,Armor,Combat Armor,Strengthened Combat Armor Limbs,Sold by Savage Divide & Toxic Valley Vendors,true
 1192,Mods,Armor,Combat Armor,Ultra-Light Build Combat Armor Limbs,Sold by Toxic Valley Vendors,true
 1193,Mods,Armor,Combat Armor,Weighted Combat Arms,Learn from scrapping: Combat Armor,true
-1194,Mods,Armor,Combat Armor,BoS Combat Legs,Sold by Toxic Valley Vendors,true
+1194,Mods,Armor,Combat Armor,BoS Combat Armor Legs,Sold by Toxic Valley Vendors,true
 1195,Mods,Armor,Combat Armor,Fiberglass Combat Legs,Learn from scrapping: Combat Armor,true
 1196,Mods,Armor,Combat Armor,Polymer Combat Legs,Learn from scrapping: Combat Armor,true
-1197,Mods,Armor,Combat Armor,Shadowed Combat Legs,Sold by Toxic Valley Vendors,true
+1197,Mods,Armor,Combat Armor,Shadowed Combat Armor Legs,Sold by Toxic Valley Vendors,true
 1198,Mods,Armor,Combat Armor,Cushioned Combat Armor Legs,Sold by Savage Divide & Toxic Valley Vendors,true
 1199,Mods,Armor,Combat Armor,Custom Fitted Combat Legs,Learn from scrapping: Combat Armor,true
 1203,Mods,Armor,Combat Armor,Muffled Combat Legs,Learn from scrapping: Combat Armor,true
@@ -1172,7 +1172,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1220,Mods,Armor,Leather Armor,Pocketed Leather Armor Chest,Sold by Forest/Toxic Valley Vendors,true
 1221,Mods,Armor,Leather Armor,Ultra-Light Build Leather Armor Chest,Sold by Savage Divide & Toxic Valley Vendors,true
 1222,Mods,Armor,Leather Armor,Girded Leather Arms,Learn from scrapping: Leather Armor,true
-1223,Mods,Armor,Leather Armor,Shadowed Leather Armor Arms,Sold by Toxic Valley Vendors,true
+1223,Mods,Armor,Leather Armor,Shadowed Leather Armor Arm,Sold by Toxic Valley Vendors,true
 1224,Mods,Armor,Leather Armor,Studded Leather Arms,Learn from scrapping: Leather Armor,true
 1225,Mods,Armor,Leather Armor,Treated Leather Arms,Learn from scrapping: Leather Armor,true
 1226,Mods,Armor,Leather Armor,Aerodynamic Leather Arms,Learn from scrapping: Leather Armor,true
@@ -1286,11 +1286,11 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1352,Mods,Armor,Secret Service Armor,Secret Service Aerodynamic Armor Arms,Sold by Regs,true
 1353,Mods,Armor,Secret Service Armor,Secret Service Braced Armor Arms,Sold by Regs,true
 1354,Mods,Armor,Secret Service Armor,Secret Service Brawling Armor Arms,Sold by Regs,true
-1355,Mods,Armor,Secret Service Armor,Secret Service Deep Pocketed Armor Limbs,Sold by Regs,true
-1356,Mods,Armor,Secret Service Armor,Secret Service Lighter Build Armor Limbs,"Sold by Regs & Minerva (Lists 6, 8, 22, & 24)",true
-1357,Mods,Armor,Secret Service Armor,Secret Service Pocketed Armor Limbs,"Sold by Regs & Minerva (Lists 3, 4, 19, & 20)",true
+1355,Mods,Armor,Secret Service Armor,Secret Service Deep Pocketed Armor Limb,Sold by Regs,true
+1356,Mods,Armor,Secret Service Armor,Lighter Build Secret Service Armor Limbs,"Sold by Regs & Minerva (Lists 6, 8, 22, & 24)",true
+1357,Mods,Armor,Secret Service Armor,Secret Service Pocketed Armor Limb,"Sold by Regs & Minerva (Lists 3, 4, 19, & 20)",true
 1358,Mods,Armor,Secret Service Armor,Secret Service Stabilized Armor Arms,Sold by Regs,true
-1359,Mods,Armor,Secret Service Armor,Secret Service Ultra-light Build Armor Limbs,"Sold by Regs & Minerva (Lists 6, 8, 22, & 24)",true
+1359,Mods,Armor,Secret Service Armor,Ultra-Light Build Secret Service Armor Limbs,"Sold by Regs & Minerva (Lists 6, 8, 22, & 24)",true
 1360,Mods,Armor,Secret Service Armor,Secret Service Weighted Armor Arms,Sold by Regs,true
 1361,Mods,Armor,Secret Service Armor,Secret Service Buttressed Armor Legs,Sold by Regs,true
 1362,Mods,Armor,Secret Service Armor,Secret Service Hardened Armor Legs,Sold by Regs,true
@@ -1332,10 +1332,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1406,Mods,Armor,Trapper Armor,Sleek Trapper Legs,Learn from scrapping: Trapper Armor,true
 1409,Mods,Armor,Wood Armor,Shrouded Wood Armor Mod,Raleigh Clay's Bunker: Storage Room Before Garden Area,true
 1410,Mods,Melee Weapons,Assaultron Blade/The Gutter,Electrified Assaultron Blade,Drops from: Assaultrons,true
-1411,Mods,Melee Weapons,Auto-Axe,Auto-Axe Burning Mod,Sold by Giuseppe,true
-1412,Mods,Melee Weapons,Auto-Axe,Auto-Axe Electrified Mod,Sold by Giuseppe,true
-1413,Mods,Melee Weapons,Auto-Axe,Auto-Axe Poisoned Mod,Sold by Giuseppe,true
-1414,Mods,Melee Weapons,Auto-Axe,Auto-Axe Turbo Mod,Sold by Giuseppe,true
+1411,Mods,Melee Weapons,Auto Axe,Auto Axe Burning Mod,Sold by Giuseppe,true
+1412,Mods,Melee Weapons,Auto Axe,Auto Axe Electrified Mod,Sold by Giuseppe,true
+1413,Mods,Melee Weapons,Auto Axe,Auto Axe Poisoned Mod,Sold by Giuseppe,true
+1414,Mods,Melee Weapons,Auto Axe,Auto Axe Turbo Mod,Sold by Giuseppe,true
 1415,Mods,Melee Weapons,Baseball Bat,Bladed,Learn from scrapping: Baseball Bat,true
 1416,Mods,Melee Weapons,Baseball Bat,Bladed Rocket,Learn from scrapping: Baseball Bat,true
 1417,Mods,Melee Weapons,Baseball Bat,Chain-Wrapped,Learn from scrapping: Baseball Bat,true
@@ -1362,7 +1362,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1438,Mods,Melee Weapons,Board,Puncturing,Learn from scrapping: Board,true
 1439,Mods,Melee Weapons,Bowie Knife,Serrated Blade,Learn from scrapping: Combat Knife,true
 1440,Mods,Melee Weapons,Bowie Knife,Stealth Blade,Learn from scrapping: Combat Knife,true
-1441,Mods,Melee Weapons,Boxing Glove,Boxing Glove Lead Lined,Generic Events & Quests: Forest,true
+1441,Mods,Melee Weapons,Boxing Glove,Boxing Glove Lead Lining,Generic Events & Quests: Forest,true
 1442,Mods,Melee Weapons,Boxing Glove,Puncturing,Learn from scrapping: Boxing Glove,true
 1443,Mods,Melee Weapons,Boxing Glove,Spiked,Learn from scrapping: Boxing Glove,true
 1444,Mods,Melee Weapons,Chainsaw,Bow Bar,Learn from scrapping: Chainsaw,true
@@ -1372,7 +1372,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1448,Mods,Melee Weapons,Chinese Officer Sword,Serrated Blade,Learn from scrapping: Chinese Officer Sword,true
 1449,Mods,Melee Weapons,Combat Knife,Serrated Blade,Learn from scrapping: Combat Knife,true
 1450,Mods,Melee Weapons,Combat Knife,Stealth Blade,Learn from scrapping: Combat Knife,true
-1451,Mods,Melee Weapons,Commie Whacker,Bladed Commie Wacker,Drops from: Liberators,true
+1451,Mods,Melee Weapons,Commie Whacker,Bladed Commie Whacker,Drops from: Liberators,true
 1452,Mods,Melee Weapons,Deathclaw Gauntlet/Unstoppable Monster,Deathclaw Gauntlet Extra Claw,Event: Test Your Metal,true
 1453,Mods,Melee Weapons,Electro Enforcer,Freezing Electro Enforcer,Event: Invaders From Beyond,true
 1454,Mods,Melee Weapons,Electro Enforcer,Overcharged Electro Enforcer,Event: Invaders From Beyond,true
@@ -1397,7 +1397,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1473,Mods,Melee Weapons,Machete,Machete Sacrificial Blade,Generic Events & Quests: Forest,true
 1474,Mods,Melee Weapons,Meat Hook,Extra Hooks,Learn from scrapping: Meat Hook,true
 1475,Mods,Melee Weapons,Mole Miner Gauntlet,Extra Blade,Learn from scrapping: Mole Miner Gauntlet,true
-1476,Mods,Melee Weapons,Mr. Handy Buzz Blade,Electrified Mr Handy Buzz Blade,Drops from: Mr. Handy Robots,true
+1476,Mods,Melee Weapons,Mr. Handy Buzz Blade,Electrified Mr. Handy Buzz Blade,Drops from: Mr. Handy Robots,true
 1477,Mods,Melee Weapons,Pipe Wrench/Mechanic's Best Friend,Extra Heavy,Learn from scrapping: Pipe Wrench,true
 1478,Mods,Melee Weapons,Pipe Wrench/Mechanic's Best Friend,Heavy,Learn from scrapping: Pipe Wrench,true
 1479,Mods,Melee Weapons,Pipe Wrench/Mechanic's Best Friend,Hooked,Learn from scrapping: Pipe Wrench,true
@@ -1407,11 +1407,11 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1483,Mods,Melee Weapons,Pitchfork,Pitchfork Flamer,Generic Events & Quests: Forest Mutated Event Packages,true
 1484,Mods,Melee Weapons,Plasma Cutter,Plasma Cutter Cryo Blade,Sold by Reg & Minerva (Lists 11 & 12),true
 1485,Mods,Melee Weapons,Plasma Cutter,Plasma Cutter Flaming Blade,Sold by Reg & Minerva (Lists 11 & 12),true
-1486,Mods,Melee Weapons,Plasma Cutter,Plasma Cutter Shocking Blade,Sold by Reg & Minerva (Lists 11 & 12),true
+1486,Mods,Melee Weapons,Plasma Cutter,Plasma Cutter Shock Blade,Sold by Reg & Minerva (Lists 11 & 12),true
 1487,Mods,Melee Weapons,Pole Hook,Puncturing Pole Hook,Drops from: Anglers & Gulpers (Only if Pole Hook is Known),true
 1488,Mods,Melee Weapons,Pool Cue,Barbed,Learn from scrapping: Pool Cue,true
 1489,Mods,Melee Weapons,Pool Cue,Sharp,Learn from scrapping: Pool Cue,true
-1490,Mods,Melee Weapons,Power Fist/Face Breaker,Power Fist Heating Coil,Generic Events & Quests: Cranberry Bog/Mire,true
+1490,Mods,Melee Weapons,Power Fist/Face Breaker,Powerfist Heating Coil,Generic Events & Quests: Cranberry Bog/Mire,true
 1491,Mods,Melee Weapons,Power Fist/Face Breaker,Puncturing,Learn from scrapping: Power Fist,true
 1492,Mods,Melee Weapons,Revolutionary Sword,Electrified,Learn from scrapping: Revolutionary Sword,true
 1493,Mods,Melee Weapons,Revolutionary Sword,Serrated Blade,Learn from scrapping: Revolutionary Sword,true
@@ -1713,79 +1713,79 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1789,Mods,Ranged Weapons,.44 Revolver,Short Recon Scope,Learn from scrapping: .44 Revolver,true
 1790,Mods,Ranged Weapons,.44 Revolver,Short Scope,Learn from scrapping: .44 Revolver,true
 1791,Mods,Ranged Weapons,.50 Cal Machine Gun,Prime 50 Cal Machine Gun Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
-1792,Mods,Ranged Weapons,.50 Cal Machine Gun,Heavy Barrel,Learn from Scraping: .50 Cal MG,true
-1793,Mods,Ranged Weapons,10mm Pistol,Automatic Receiver,Learn from Scraping: 10mm Pistol,true
-1794,Mods,Ranged Weapons,10mm Pistol,Calibrated Receiver,Learn from Scraping: 10mm Pistol,true
-1795,Mods,Ranged Weapons,10mm Pistol,Fierce Receiver,Learn from Scraping: 10mm Pistol,true
-1796,Mods,Ranged Weapons,10mm Pistol,Focused Automatic Receiver,Learn from Scraping: 10mm Pistol,true
-1797,Mods,Ranged Weapons,10mm Pistol,Hardened Receiver,Learn from Scraping: 10mm Pistol,true
-1798,Mods,Ranged Weapons,10mm Pistol,Powerful Automatic Receiver,Learn from Scraping: 10mm Pistol,true
-1799,Mods,Ranged Weapons,10mm Pistol,Hair Trigger Receiver,Learn from Scraping: 10mm Pistol,true
+1792,Mods,Ranged Weapons,.50 Cal Machine Gun,Heavy Barrel,Learn from scrapping: .50 Cal MG,true
+1793,Mods,Ranged Weapons,10mm Pistol,Automatic Receiver,Learn from scrapping: 10mm Pistol,true
+1794,Mods,Ranged Weapons,10mm Pistol,Calibrated Receiver,Learn from scrapping: 10mm Pistol,true
+1795,Mods,Ranged Weapons,10mm Pistol,Fierce Receiver,Learn from scrapping: 10mm Pistol,true
+1796,Mods,Ranged Weapons,10mm Pistol,Focused Automatic Receiver,Learn from scrapping: 10mm Pistol,true
+1797,Mods,Ranged Weapons,10mm Pistol,Hardened Receiver,Learn from scrapping: 10mm Pistol,true
+1798,Mods,Ranged Weapons,10mm Pistol,Powerful Automatic Receiver,Learn from scrapping: 10mm Pistol,true
+1799,Mods,Ranged Weapons,10mm Pistol,Hair Trigger Receiver,Learn from scrapping: 10mm Pistol,true
 1800,Mods,Ranged Weapons,10mm Pistol,Prime Automatic 10mm Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 1801,Mods,Ranged Weapons,10mm Pistol,Prime 10mm Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
-1802,Mods,Ranged Weapons,10mm Pistol,Refined Receiver,Learn from Scraping: 10mm Pistol,true
-1803,Mods,Ranged Weapons,10mm Pistol,Severe Receiver,Learn from Scraping: 10mm Pistol,true
-1804,Mods,Ranged Weapons,10mm Pistol,Steadfast Receiver,Learn from Scraping: 10mm Pistol,true
-1805,Mods,Ranged Weapons,10mm Pistol,True Receiver,Learn from Scraping: 10mm Pistol,true
-1806,Mods,Ranged Weapons,10mm Pistol,Tweaked Automatic Receiver,Learn from Scraping: 10mm Pistol,true
-1807,Mods,Ranged Weapons,10mm Pistol,Vicious Receiver,Learn from Scraping: 10mm Pistol,true
-1808,Mods,Ranged Weapons,10mm Pistol,Vigorous Receiver,Learn from Scraping: 10mm Pistol,true
+1802,Mods,Ranged Weapons,10mm Pistol,Refined Receiver,Learn from scrapping: 10mm Pistol,true
+1803,Mods,Ranged Weapons,10mm Pistol,Severe Receiver,Learn from scrapping: 10mm Pistol,true
+1804,Mods,Ranged Weapons,10mm Pistol,Steadfast Receiver,Learn from scrapping: 10mm Pistol,true
+1805,Mods,Ranged Weapons,10mm Pistol,True Receiver,Learn from scrapping: 10mm Pistol,true
+1806,Mods,Ranged Weapons,10mm Pistol,Tweaked Automatic Receiver,Learn from scrapping: 10mm Pistol,true
+1807,Mods,Ranged Weapons,10mm Pistol,Vicious Receiver,Learn from scrapping: 10mm Pistol,true
+1808,Mods,Ranged Weapons,10mm Pistol,Vigorous Receiver,Learn from scrapping: 10mm Pistol,true
 1809,Mods,Ranged Weapons,10mm Pistol,Scorched Killer's Receiver,Charleston Fire Department Fire Breathers Master Terminal,true
-1810,Mods,Ranged Weapons,10mm Pistol,Aligned Long Barrel,Learn from Scraping: 10mm Pistol,true
-1811,Mods,Ranged Weapons,10mm Pistol,Aligned Short Barrel,Learn from Scraping: 10mm Pistol,true
-1812,Mods,Ranged Weapons,10mm Pistol,Aligned Very Short Barrel,Learn from Scraping: 10mm Pistol,true
-1813,Mods,Ranged Weapons,10mm Pistol,Stabilized Long Barrel,Learn from Scraping: 10mm Pistol,true
-1814,Mods,Ranged Weapons,10mm Pistol,Stabilized Short Barrel,Learn from Scraping: 10mm Pistol,true
-1815,Mods,Ranged Weapons,10mm Pistol,Stabilized Stub Barrel,Learn from Scraping: 10mm Pistol,true
-1816,Mods,Ranged Weapons,10mm Pistol,True Long Barrel,Learn from Scraping: 10mm Pistol,true
-1817,Mods,Ranged Weapons,10mm Pistol,True Short Barrel,Learn from Scraping: 10mm Pistol,true
-1818,Mods,Ranged Weapons,10mm Pistol,True Stub Barrel,Learn from Scraping: 10mm Pistol,true
-1819,Mods,Ranged Weapons,10mm Pistol,Aligned Grip,Learn from Scraping: 10mm Pistol,true
-1820,Mods,Ranged Weapons,10mm Pistol,Bruising Grip,Learn from Scraping: 10mm Pistol,true
-1821,Mods,Ranged Weapons,10mm Pistol,Forceful Grip,Learn from Scraping: 10mm Pistol,true
-1822,Mods,Ranged Weapons,10mm Pistol,Precise Grip,Learn from Scraping: 10mm Pistol,true
-1823,Mods,Ranged Weapons,10mm Pistol,Stabilized Grip,Learn from Scraping: 10mm Pistol,true
-1824,Mods,Ranged Weapons,10mm Pistol,True Grip,Learn from Scraping: 10mm Pistol,true
-1825,Mods,Ranged Weapons,10mm Pistol,Large Magazine,Learn from Scraping: 10mm Pistol,true
-1826,Mods,Ranged Weapons,10mm Pistol,Perforating Magazine,Learn from Scraping: 10mm Pistol,true
-1827,Mods,Ranged Weapons,10mm Pistol,Piercing Magazine,Learn from Scraping: 10mm Pistol,true
-1828,Mods,Ranged Weapons,10mm Pistol,Quick Magazine,Learn from Scraping: 10mm Pistol,true
-1829,Mods,Ranged Weapons,10mm Pistol,Stinging Magazine,Learn from Scraping: 10mm Pistol,true
-1830,Mods,Ranged Weapons,10mm Pistol,Swift Magazine,Learn from Scraping: 10mm Pistol,true
-1831,Mods,Ranged Weapons,10mm Pistol,Reflex Sight (Circle),Learn from Scraping: 10mm Pistol,true
-1832,Mods,Ranged Weapons,10mm Pistol,Standard Glow Sights,Learn from Scraping: 10mm Pistol,true
-1833,Mods,Ranged Weapons,10mm Pistol,Standard Recon Scope,Learn from Scraping: 10mm Pistol,true
-1834,Mods,Ranged Weapons,10mm Pistol,Compensator,Learn from Scraping: 10mm Pistol,true
-1835,Mods,Ranged Weapons,10mm Pistol,Muzzle Break,Learn from Scraping: 10mm Pistol,true
-1836,Mods,Ranged Weapons,10mm Pistol,Suppressor,Learn from Scraping: 10mm Pistol,true
-1837,Mods,Ranged Weapons,10mm Submachine Gun,Calibrated Receiver,Learn from Scraping: 10mm SMG,true
-1838,Mods,Ranged Weapons,10mm Submachine Gun,Hardened Receiver,Learn from Scraping: 10mm SMG,true
+1810,Mods,Ranged Weapons,10mm Pistol,Aligned Long Barrel,Learn from scrapping: 10mm Pistol,true
+1811,Mods,Ranged Weapons,10mm Pistol,Aligned Short Barrel,Learn from scrapping: 10mm Pistol,true
+1812,Mods,Ranged Weapons,10mm Pistol,Aligned Very Short Barrel,Learn from scrapping: 10mm Pistol,true
+1813,Mods,Ranged Weapons,10mm Pistol,Stabilized Long Barrel,Learn from scrapping: 10mm Pistol,true
+1814,Mods,Ranged Weapons,10mm Pistol,Stabilized Short Barrel,Learn from scrapping: 10mm Pistol,true
+1815,Mods,Ranged Weapons,10mm Pistol,Stabilized Stub Barrel,Learn from scrapping: 10mm Pistol,true
+1816,Mods,Ranged Weapons,10mm Pistol,True Long Barrel,Learn from scrapping: 10mm Pistol,true
+1817,Mods,Ranged Weapons,10mm Pistol,True Short Barrel,Learn from scrapping: 10mm Pistol,true
+1818,Mods,Ranged Weapons,10mm Pistol,True Stub Barrel,Learn from scrapping: 10mm Pistol,true
+1819,Mods,Ranged Weapons,10mm Pistol,Aligned Grip,Learn from scrapping: 10mm Pistol,true
+1820,Mods,Ranged Weapons,10mm Pistol,Bruising Grip,Learn from scrapping: 10mm Pistol,true
+1821,Mods,Ranged Weapons,10mm Pistol,Forceful Grip,Learn from scrapping: 10mm Pistol,true
+1822,Mods,Ranged Weapons,10mm Pistol,Precise Grip,Learn from scrapping: 10mm Pistol,true
+1823,Mods,Ranged Weapons,10mm Pistol,Stabilized Grip,Learn from scrapping: 10mm Pistol,true
+1824,Mods,Ranged Weapons,10mm Pistol,True Grip,Learn from scrapping: 10mm Pistol,true
+1825,Mods,Ranged Weapons,10mm Pistol,Large Magazine,Learn from scrapping: 10mm Pistol,true
+1826,Mods,Ranged Weapons,10mm Pistol,Perforating Magazine,Learn from scrapping: 10mm Pistol,true
+1827,Mods,Ranged Weapons,10mm Pistol,Piercing Magazine,Learn from scrapping: 10mm Pistol,true
+1828,Mods,Ranged Weapons,10mm Pistol,Quick Magazine,Learn from scrapping: 10mm Pistol,true
+1829,Mods,Ranged Weapons,10mm Pistol,Stinging Magazine,Learn from scrapping: 10mm Pistol,true
+1830,Mods,Ranged Weapons,10mm Pistol,Swift Magazine,Learn from scrapping: 10mm Pistol,true
+1831,Mods,Ranged Weapons,10mm Pistol,Reflex Sight (Circle),Learn from scrapping: 10mm Pistol,true
+1832,Mods,Ranged Weapons,10mm Pistol,Standard Glow Sights,Learn from scrapping: 10mm Pistol,true
+1833,Mods,Ranged Weapons,10mm Pistol,Standard Recon Scope,Learn from scrapping: 10mm Pistol,true
+1834,Mods,Ranged Weapons,10mm Pistol,Compensator,Learn from scrapping: 10mm Pistol,true
+1835,Mods,Ranged Weapons,10mm Pistol,Muzzle Break,Learn from scrapping: 10mm Pistol,true
+1836,Mods,Ranged Weapons,10mm Pistol,Suppressor,Learn from scrapping: 10mm Pistol,true
+1837,Mods,Ranged Weapons,10mm Submachine Gun,Calibrated Receiver,Learn from scrapping: 10mm SMG,true
+1838,Mods,Ranged Weapons,10mm Submachine Gun,Hardened Receiver,Learn from scrapping: 10mm SMG,true
 1839,Mods,Ranged Weapons,10mm Submachine Gun,Prime 10mm Submachine Gun Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
-1840,Mods,Ranged Weapons,10mm Submachine Gun,True Receiver,Learn from Scraping: 10mm SMG,true
-1841,Mods,Ranged Weapons,10mm Submachine Gun,Refined Receiver,Learn from Scraping: 10mm SMG,true
-1842,Mods,Ranged Weapons,10mm Submachine Gun,Severe Receiver,Learn from Scraping: 10mm SMG,true
-1843,Mods,Ranged Weapons,10mm Submachine Gun,Vicious Receiver,Learn from Scraping: 10mm SMG,true
+1840,Mods,Ranged Weapons,10mm Submachine Gun,True Receiver,Learn from scrapping: 10mm SMG,true
+1841,Mods,Ranged Weapons,10mm Submachine Gun,Refined Receiver,Learn from scrapping: 10mm SMG,true
+1842,Mods,Ranged Weapons,10mm Submachine Gun,Severe Receiver,Learn from scrapping: 10mm SMG,true
+1843,Mods,Ranged Weapons,10mm Submachine Gun,Vicious Receiver,Learn from scrapping: 10mm SMG,true
 1844,Mods,Ranged Weapons,10mm Submachine Gun,Scorched Killer's Receiver,Charleston Fire Department Fire Breathers Master Terminal,true
-1845,Mods,Ranged Weapons,10mm Submachine Gun,Long Barrel,Learn from Scraping: 10mm SMG,true
-1846,Mods,Ranged Weapons,10mm Submachine Gun,Stabilized Long Barrel,Learn from Scraping: 10mm SMG,true
-1847,Mods,Ranged Weapons,10mm Submachine Gun,Stabilized Short Barrel,Learn from Scraping: 10mm SMG,true
-1848,Mods,Ranged Weapons,10mm Submachine Gun,Stabilized Stub Barrel,Learn from Scraping: 10mm SMG,true
-1849,Mods,Ranged Weapons,10mm Submachine Gun,True Long Barrel,Learn from Scraping: 10mm SMG,true
-1850,Mods,Ranged Weapons,10mm Submachine Gun,True Short Barrel,Learn from Scraping: 10mm SMG,true
-1851,Mods,Ranged Weapons,10mm Submachine Gun,True Stub Barrel,Learn from Scraping: 10mm SMG,true
-1852,Mods,Ranged Weapons,10mm Submachine Gun,Aligned Long Barrel,Learn from Scraping: 10mm SMG,true
-1853,Mods,Ranged Weapons,10mm Submachine Gun,Aligned Short Barrel,Learn from Scraping: 10mm SMG,true
-1854,Mods,Ranged Weapons,10mm Submachine Gun,Aligned Stub Barrel,Learn from Scraping: 10mm SMG,true
-1855,Mods,Ranged Weapons,10mm Submachine Gun,Bruising Stock,Learn from Scraping: 10mm SMG,true
-1856,Mods,Ranged Weapons,10mm Submachine Gun,Stabilized Stock,Learn from Scraping: 10mm SMG,true
-1857,Mods,Ranged Weapons,10mm Submachine Gun,True Stock,Learn from Scraping: 10mm SMG,true
-1858,Mods,Ranged Weapons,10mm Submachine Gun,Aligned Stock,Learn from Scraping: 10mm SMG,true
-1859,Mods,Ranged Weapons,10mm Submachine Gun,Forceful Stock,Learn from Scraping: 10mm SMG,true
-1860,Mods,Ranged Weapons,10mm Submachine Gun,Precise Stock,Learn from Scraping: 10mm SMG,true
+1845,Mods,Ranged Weapons,10mm Submachine Gun,Long Barrel,Learn from scrapping: 10mm SMG,true
+1846,Mods,Ranged Weapons,10mm Submachine Gun,Stabilized Long Barrel,Learn from scrapping: 10mm SMG,true
+1847,Mods,Ranged Weapons,10mm Submachine Gun,Stabilized Short Barrel,Learn from scrapping: 10mm SMG,true
+1848,Mods,Ranged Weapons,10mm Submachine Gun,Stabilized Stub Barrel,Learn from scrapping: 10mm SMG,true
+1849,Mods,Ranged Weapons,10mm Submachine Gun,True Long Barrel,Learn from scrapping: 10mm SMG,true
+1850,Mods,Ranged Weapons,10mm Submachine Gun,True Short Barrel,Learn from scrapping: 10mm SMG,true
+1851,Mods,Ranged Weapons,10mm Submachine Gun,True Stub Barrel,Learn from scrapping: 10mm SMG,true
+1852,Mods,Ranged Weapons,10mm Submachine Gun,Aligned Long Barrel,Learn from scrapping: 10mm SMG,true
+1853,Mods,Ranged Weapons,10mm Submachine Gun,Aligned Short Barrel,Learn from scrapping: 10mm SMG,true
+1854,Mods,Ranged Weapons,10mm Submachine Gun,Aligned Stub Barrel,Learn from scrapping: 10mm SMG,true
+1855,Mods,Ranged Weapons,10mm Submachine Gun,Bruising Stock,Learn from scrapping: 10mm SMG,true
+1856,Mods,Ranged Weapons,10mm Submachine Gun,Stabilized Stock,Learn from scrapping: 10mm SMG,true
+1857,Mods,Ranged Weapons,10mm Submachine Gun,True Stock,Learn from scrapping: 10mm SMG,true
+1858,Mods,Ranged Weapons,10mm Submachine Gun,Aligned Stock,Learn from scrapping: 10mm SMG,true
+1859,Mods,Ranged Weapons,10mm Submachine Gun,Forceful Stock,Learn from scrapping: 10mm SMG,true
+1860,Mods,Ranged Weapons,10mm Submachine Gun,Precise Stock,Learn from scrapping: 10mm SMG,true
 1861,Mods,Ranged Weapons,10mm Submachine Gun,10mm Submachine Gun Drum Magazine,Sold by Vendors: Any Region,true
-1862,Mods,Ranged Weapons,10mm Submachine Gun,Perforating Magazine,Learn from Scraping: 10mm SMG,true
-1863,Mods,Ranged Weapons,10mm Submachine Gun,Quick Magazine,Learn from Scraping: 10mm SMG,true
-1864,Mods,Ranged Weapons,10mm Submachine Gun,Piercing Magazine,Learn from Scraping: 10mm SMG,true
+1862,Mods,Ranged Weapons,10mm Submachine Gun,Perforating Magazine,Learn from scrapping: 10mm SMG,true
+1863,Mods,Ranged Weapons,10mm Submachine Gun,Quick Magazine,Learn from scrapping: 10mm SMG,true
+1864,Mods,Ranged Weapons,10mm Submachine Gun,Piercing Magazine,Learn from scrapping: 10mm SMG,true
 1865,Mods,Ranged Weapons,Alien Blaster,Long Barrel,Learn from scrapping: Alien Blaster,true
 1866,Mods,Ranged Weapons,Alien Blaster,Sharpshooter's Grip,Learn from scrapping: Alien Blaster,true
 1867,Mods,Ranged Weapons,Alien Blaster,Alien Blaster Cryo Mag,Event: Invaders From Beyond,true
@@ -1794,7 +1794,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1870,Mods,Ranged Weapons,Alien Blaster,Short Scope,Learn from scrapping: Alien Blaster,true
 1871,Mods,Ranged Weapons,Alien Disintegrator,Automatic Receiver,Event: Invaders From Beyond,true
 1872,Mods,Ranged Weapons,Alien Disintegrator,Cryo Receiver,Event: Invaders From Beyond,true
-1873,Mods,Ranged Weapons,Alien Disintegrator,High-Powered Receiver,Event: Invaders From Beyond,true
+1873,Mods,Ranged Weapons,Alien Disintegrator,High Powered Receiver,Event: Invaders From Beyond,true
 1874,Mods,Ranged Weapons,Alien Disintegrator,Poison Receiver,Event: Invaders From Beyond,true
 1875,Mods,Ranged Weapons,Assault Rifle,Calibrated Receiver,Learn from scrapping: Assault Rifle,true
 1876,Mods,Ranged Weapons,Assault Rifle,Hardened Receiver,Learn from scrapping: Assault Rifle,true
@@ -1959,7 +1959,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2035,Mods,Ranged Weapons,Compound Bow,Compound Bow Explosive Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
 2036,Mods,Ranged Weapons,Compound Bow,Compound Bow Flaming Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
 2037,Mods,Ranged Weapons,Compound Bow,Compound Bow Plasma Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
-2038,Mods,Ranged Weapons,Compound Bow,Compound Bow Poison Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
+2038,Mods,Ranged Weapons,Compound Bow,Compound Bow Poisoned Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
 2039,Mods,Ranged Weapons,Compound Bow,Compound Bow Ultracite Arrows,Sold by Ae-Ri (Ally) & Sunny (Ally),true
 2040,Mods,Ranged Weapons,Crossbow,Cryo Crossbow Frame,Sold by Ae-Ri (Friendly) & Sunny (Friendly),true
 2041,Mods,Ranged Weapons,Crossbow,Explosive Crossbow Frame,Sold by Ae-Ri (Friendly) & Sunny (Friendly),true
@@ -2014,7 +2014,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2090,Mods,Ranged Weapons,Fatman,Fatman MIRV Launcher,"Sold by: Cranberry Bog, Mire, & Savage Divide Vendors",true
 2091,Mods,Ranged Weapons,Gamma Gun,Deep Dish,Learn from scrapping: Gamma Gun,true
 2092,Mods,Ranged Weapons,Gamma Gun,Sharpshooter's Grip,Learn from scrapping: Gamma Gun,true
-2093,Mods,Ranged Weapons,Gamma Gun,Gamma Gun Electric Signal Carrier Attennae,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
+2093,Mods,Ranged Weapons,Gamma Gun,Gamma Gun Electric Signal Carrier Antennae,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
 2094,Mods,Ranged Weapons,Gamma Gun,Signal Repeater,Learn from scrapping: Gamma Gun,true
 2095,Mods,Ranged Weapons,Gatling Gun,Prime Gatling Gun Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2096,Mods,Ranged Weapons,Gatling Gun,Speedy Receiver,Learn from scrapping: Gatling Gun,true
@@ -2053,10 +2053,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2129,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Refined Receiver,"Sold by Regs, & Minerva (Lists 5, 8, 21, & 24)",true
 2130,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Vicious Receiver,"Sold by Regs, & Minerva (Lists 13 & 16)",true
 2131,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Aligned Short Barrel,"Sold by Regs, & Minerva (Lists 5, 8, 21, & 24)",true
-2132,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Supressed Barrel,"Sold by Regs, & Minerva (Lists 13 & 16)",true
+2132,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Suppressed Barrel,"Sold by Regs, & Minerva (Lists 13 & 16)",true
 2133,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Drum Magazine,"Sold by Regs, & Minerva (Lists 5, 8, 21, & 24)",true
 2134,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Glow Sights,Sold by Regs,true
-2135,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Reflex Sights,Sold by Regs,true
+2135,Mods,Ranged Weapons,Gauss Pistol,Gauss Pistol Reflex Sight,Sold by Regs,true
 2136,Mods,Ranged Weapons,Gauss Rifle,Aligned Long Barrel,Learn from scrapping: Gauss Rifle,true
 2137,Mods,Ranged Weapons,Gauss Rifle,Aligned Shielded Barrel,Learn from scrapping: Gauss Rifle,true
 2138,Mods,Ranged Weapons,Gauss Rifle,Stabilized Long Barrel,Learn from scrapping: Gauss Rifle,true
@@ -2107,7 +2107,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2183,Mods,Ranged Weapons,Handmade Rifle,Hardened Receiver,Learn from scrapping: Handmade Rifle,true
 2184,Mods,Ranged Weapons,Handmade Rifle,Powerful Automatic Receiver,Learn from scrapping: Handmade Rifle,true
 2185,Mods,Ranged Weapons,Handmade Rifle,Prime Automatic Handmade Rifle Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
-2186,Mods,Ranged Weapons,Handmade Rifle,Prime Handmade Rifle,Drops from Scorchbeast & Scorchbeast Queen,true
+2186,Mods,Ranged Weapons,Handmade Rifle,Prime Handmade Rifle Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2187,Mods,Ranged Weapons,Handmade Rifle,Refined Receiver,Learn from scrapping: Handmade Rifle,true
 2188,Mods,Ranged Weapons,Handmade Rifle,Scorched Killer's Receiver,Charleston Fire Department Fire Breathers Master Terminal,true
 2189,Mods,Ranged Weapons,Handmade Rifle,Severe Receiver,Learn from scrapping: Handmade Rifle,true
@@ -2151,17 +2151,17 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2227,Mods,Ranged Weapons,Harpoon Gun,Harpoon Gun Flechettes,"Sold by: Cranberry Bog, Mire, & Savage Divide Vendors",true
 2228,Mods,Ranged Weapons,Harpoon Gun,Reflex Sight,Learn from scrapping: Harpoon Gun,true
 2229,Mods,Ranged Weapons,Harpoon Gun,Short Scope,Learn from scrapping: Harpoon Gun,true
-2230,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missle Launcher Cyro Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
-2231,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missle Launcher Enhanced Blast Payload,Sold by Regs,true
-2232,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missle Launcher Napalm Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
-2233,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missle Launcher Plasma Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
-2234,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missle Launcher Long NV Scope,Sold by Regs,true
-2235,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missle Launcher Short Recon Scope,Sold by Regs,true
+2230,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Cyro Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
+2231,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Enhanced Blast Payload,Sold by Regs,true
+2232,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Napalm Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
+2233,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Plasma Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
+2234,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Long NV Scope,Sold by Regs,true
+2235,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Short Recon Scope,Sold by Regs,true
 2236,Mods,Ranged Weapons,Hunting Rifle,Hunting Rifle .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2237,Mods,Ranged Weapons,Hunting Rifle,Hunting Rifle .50 Receiver,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
 2238,Mods,Ranged Weapons,Hunting Rifle,Calibrated Receiver,Learn from scrapping: Hunting Rifle,true
-2239,Mods,Ranged Weapons,Hunting Rifle,Hunting Rifle Critial .38 Receiver,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
-2240,Mods,Ranged Weapons,Hunting Rifle,Hunting Rifle Critial .50 Receiver,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
+2239,Mods,Ranged Weapons,Hunting Rifle,Hunting Rifle Critical .38 Receiver,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
+2240,Mods,Ranged Weapons,Hunting Rifle,Hunting Rifle Critical .50 Receiver,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
 2241,Mods,Ranged Weapons,Hunting Rifle,Hair Trigger Receiver,Learn from scrapping: Hunting Rifle,true
 2242,Mods,Ranged Weapons,Hunting Rifle,Hardened Receiver,Learn from scrapping: Hunting Rifle,true
 2243,Mods,Ranged Weapons,Hunting Rifle,Hunting Rifle Hasty .38 Receiver,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
@@ -2287,7 +2287,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2363,Mods,Ranged Weapons,Lever Action Rifle,Lever Gun Short NV Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
 2364,Mods,Ranged Weapons,Lever Action Rifle,Short Scope,Learn from scrapping: Lever Action Rifle,true
 2365,Mods,Ranged Weapons,Lever Action Rifle,Compensator,Learn from scrapping: Lever Action Rifle,true
-2366,Mods,Ranged Weapons,Lever Action Rifle,Supressor,Learn from scrapping: Lever Action Rifle,true
+2366,Mods,Ranged Weapons,Lever Action Rifle,Suppressor,Learn from scrapping: Lever Action Rifle,true
 2367,Mods,Ranged Weapons,MG42 Light Machine Gun,Prime Light Machine Gun .308 Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2368,Mods,Ranged Weapons,MG42 Light Machine Gun,Muzzle Brake,Learn from scrapping: LMG,true
 2369,Mods,Ranged Weapons,M79 Grenade Launcher,Long Barrel,Learn from scrapping: M79,true
@@ -2316,7 +2316,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2392,Mods,Ranged Weapons,Pipe Bolt-Action,Hair Trigger Receiver,Learn from scrapping: Pipe Bolt-Action,true
 2393,Mods,Ranged Weapons,Pipe Bolt-Action,Hardened Receiver,Learn from scrapping: Pipe Bolt-Action,true
 2394,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Hasty .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
-2395,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Precise.38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
+2395,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Precise .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2396,Mods,Ranged Weapons,Pipe Bolt-Action,Prime Pipe Bolt-Action Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2397,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Refined .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2398,Mods,Ranged Weapons,Pipe Bolt-Action,Refined Receiver,Learn from scrapping: Pipe Bolt-Action,true
@@ -2344,12 +2344,12 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2420,Mods,Ranged Weapons,Pipe Bolt-Action,Stabilized Stock,Learn from scrapping: Pipe Bolt-Action,true
 2421,Mods,Ranged Weapons,Pipe Bolt-Action,True Stock,Learn from scrapping: Pipe Bolt-Action,true
 2422,Mods,Ranged Weapons,Pipe Bolt-Action,Glow Reflex Sight,Learn from scrapping: Pipe Bolt-Action,true
-2423,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt Action Long NV Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, Savage Divide, & Toxic Valley Vendors",true
+2423,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Long NV Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, Savage Divide, & Toxic Valley Vendors",true
 2424,Mods,Ranged Weapons,Pipe Bolt-Action,Long Recon Scope,Learn from scrapping: Pipe Bolt-Action,true
 2425,Mods,Ranged Weapons,Pipe Bolt-Action,Long Scope,Learn from scrapping: Pipe Bolt-Action,true
-2426,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt Action Medium NV Scope,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
+2426,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Medium NV Scope,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
 2427,Mods,Ranged Weapons,Pipe Bolt-Action,Medium Scope,Learn from scrapping: Pipe Bolt-Action,true
-2428,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt Action Short NV Scope,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
+2428,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Short NV Scope,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
 2429,Mods,Ranged Weapons,Pipe Bolt-Action,Short Recon Scope,Learn from scrapping: Pipe Bolt-Action,true
 2430,Mods,Ranged Weapons,Pipe Bolt-Action,Short Scope,Learn from scrapping: Pipe Bolt-Action,true
 2431,Mods,Ranged Weapons,Pipe Bolt-Action,Compensator,Learn from scrapping: Pipe Bolt-Action,true
@@ -2366,7 +2366,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2442,Mods,Ranged Weapons,Pipe Gun,Hair Trigger Receiver,Learn from scrapping: Pipe Gun,true
 2443,Mods,Ranged Weapons,Pipe Gun,Hardened Receiver,Learn from scrapping: Pipe Gun,true
 2444,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Hasty .45 Receiver,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
-2445,Mods,Ranged Weapons,Pipe Gun,Poweful Automatic Receiver,Learn from scrapping: Pipe Gun,true
+2445,Mods,Ranged Weapons,Pipe Gun,Powerful Automatic Receiver,Learn from scrapping: Pipe Gun,true
 2446,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Precise .45 Receiver,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
 2447,Mods,Ranged Weapons,Pipe Gun,Prime Automatic Pipe Gun Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2448,Mods,Ranged Weapons,Pipe Gun,Prime Pipe Gun Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
@@ -2409,12 +2409,12 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2485,Mods,Ranged Weapons,Pipe Gun,Stinging Magazine,Learn from scrapping: Pipe Gun,true
 2486,Mods,Ranged Weapons,Pipe Gun,Swift Magazine,Learn from scrapping: Pipe Gun,true
 2487,Mods,Ranged Weapons,Pipe Gun,Glow Reflex Sight,Learn from scrapping: Pipe Gun,true
-2488,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Long NV Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
+2488,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Long Night Vision Scope,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
 2489,Mods,Ranged Weapons,Pipe Gun,Long Recon Scope,Learn from scrapping: Pipe Gun,true
 2490,Mods,Ranged Weapons,Pipe Gun,Long Scope,Learn from scrapping: Pipe Gun,true
-2491,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Medium NV Scope,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
+2491,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Medium Night Vision Scope,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
 2492,Mods,Ranged Weapons,Pipe Gun,Medium Scope,Learn from scrapping: Pipe Gun,true
-2493,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Short NV Scope,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
+2493,Mods,Ranged Weapons,Pipe Gun,Pipe Gun Short Night Vision Scope,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
 2494,Mods,Ranged Weapons,Pipe Gun,Short Recon Scope,Learn from scrapping: Pipe Gun,true
 2495,Mods,Ranged Weapons,Pipe Gun,Short Scope,Learn from scrapping: Pipe Gun,true
 2496,Mods,Ranged Weapons,Pipe Gun,Standard Glow Sights,Learn from scrapping: Pipe Gun,true
@@ -2429,7 +2429,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2505,Mods,Ranged Weapons,Pipe Revolver,Hair Trigger Receiver,Learn from scrapping: Pipe Revolver,true
 2506,Mods,Ranged Weapons,Pipe Revolver,Hardened Receiver,Learn from scrapping: Pipe Revolver,true
 2507,Mods,Ranged Weapons,Pipe Revolver,Pipe Revolver Hasty .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
-2508,Mods,Ranged Weapons,Pipe Revolver,Pipe Revolver Precise.38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
+2508,Mods,Ranged Weapons,Pipe Revolver,Pipe Revolver Precise .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2509,Mods,Ranged Weapons,Pipe Revolver,Prime Pipe Revolver Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2510,Mods,Ranged Weapons,Pipe Revolver,Pipe Revolver Refined .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2511,Mods,Ranged Weapons,Pipe Revolver,Refined Receiver,Learn from scrapping: Pipe Revolver,true
@@ -2597,7 +2597,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2675,Mods,Ranged Weapons,Railway Rifle,Short Scope,Learn from scrapping: Railway Rifle,true
 2676,Mods,Ranged Weapons,Railway Rifle,Large Bayonet,Learn from scrapping: Railway Rifle,true
 2677,Mods,Ranged Weapons,Single Action Revolver,Prime Single Action Revolver Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
-2678,Mods,Ranged Weapons,Single Action Revolver,Single Action Revolver Ivory Grip,Sold by: Forest & Toxic Valley Vendors,true
+2678,Mods,Ranged Weapons,Single Action Revolver,Single-Action Revolver Ivory Grip,Sold by: Forest & Toxic Valley Vendors,true
 2679,Mods,Ranged Weapons,Submachine Gun,Submachine Gun Armor Piercing Receiver,"Sold by: Ash Heap, Savage Divide, & Toxic Valley Vendors",true
 2680,Mods,Ranged Weapons,Submachine Gun,Submachine Gun Hardened Receiver,"Sold by: Ash Heap, Mire, & Savage Divide Vendors",true
 2681,Mods,Ranged Weapons,Submachine Gun,Prime Submachine Gun Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
@@ -2735,7 +2735,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2813,Recipes,Consumables,Drinks,Cranberry Juice,Learn on Pickup: Diseased Cranberries,true
 2814,Recipes,Consumables,Drinks,Firecracker Berry Juice,Learn on Pickup: Firecracker Berries,true
 2815,Recipes,Consumables,Drinks,Delbert's Granny's Sweet Tea,Mac's Farm: Inside House,true
-2816,Recipes,Consumables,Drinks,Infused Bloodleaf Tea,Sold by Antoine,true
+2816,Recipes,Consumables,Drinks,Infused Blood Leaf Tea,Sold by Antoine,true
 2817,Recipes,Consumables,Drinks,Infused Soot Flower Tea,Sold by Antoine,true
 2818,Recipes,Consumables,Drinks,Lemonade,Sold by Mr. Squeeze (Random Encounter),true
 2819,Recipes,Consumables,Drinks,Melon Juice,Learn on Pickup: Melon,true
@@ -2748,10 +2748,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2826,Recipes,Consumables,Drinks,Simple Soot Flower Tea,Learn on Pickup: Soot Flower,true
 2827,Recipes,Consumables,Drinks,Soot Flower Herb Paste,Learn on Pickup: Toxic Soot Flower,true
 2828,Recipes,Consumables,Drinks,Steeped Ash Rose Tea,Sold by Antoine,true
-2829,Recipes,Consumables,Drinks,Steeped Aster Tea (Unlocks Simple Aster),Sold by Antoine,true
+2829,Recipes,Consumables,Drinks,Steeped Aster Tea,Sold by Antoine,true
 2830,Recipes,Consumables,Drinks,Steeped Carrot Flower Tea,Sold by Antoine,true
 2831,Recipes,Consumables,Drinks,Steeped Fern Flower Tea,Sold by Antoine,true
-2832,Recipes,Consumables,Drinks,Recipe Steeped Fever Blossom Tea,Sold by Antoine,true
+2832,Recipes,Consumables,Drinks,Steeped Fever Blossom Tea,Sold by Antoine,true
 2833,Recipes,Consumables,Drinks,Steeped Gourd Blossom Tea,Sold by Antoine,true
 2834,Recipes,Consumables,Drinks,Steeped Melon Bloom Tea,Sold by Antoine,true
 2835,Recipes,Consumables,Drinks,Steeped Melon Blossom Chai,Sold by Antoine,true
@@ -2885,7 +2885,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2974,Recipes,Consumables,Food,Seasoned Rabbit Skewers,Learn on Pickup: Rabbit Leg,true
 2975,Recipes,Consumables,Food,Silt Bean Puree,Sold by Antoine,true
 2976,Recipes,Consumables,Food,Silt Bean Soup,Learn on Pickup: Silt Bean,true
-2977,Recipes,Consumables,Food,Recpie: Smoked Mirelurk Fillets,Sold by Antoine,true
+2977,Recipes,Consumables,Food,Smoked Mirelurk Fillets,Sold by Antoine,true
 2978,Recipes,Consumables,Food,Smoked Scorchbeast Lung,Learn on Pickup: Scorchbeast Lung,true
 2979,Recipes,Consumables,Food,Squirrel on a Stick,Sold by Antoine,true
 2980,Recipes,Consumables,Food,Starlight Berry Cobbler,Learn on Pickup: Starlight Berries,true
@@ -2894,16 +2894,16 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2983,Recipes,Consumables,Food,Swamp Tofu,Learn on Pickup: Swamp Plant,true
 2984,Recipes,Consumables,Food,Swamp Tofu Soup,Sold by Antoine,true
 2985,Recipes,Consumables,Food,Sweet Roll,Sold by Antoine,true
-2986,Recipes,Consumables,Food,Recpie: Sweet Tato Stew,Sold by Antoine,true
+2986,Recipes,Consumables,Food,Sweet Tato Stew,Sold by Antoine,true
 2987,Recipes,Consumables,Food,Syrup,Learn on Pickup: Glowing Resin,true
 2988,Recipes,Consumables,Food,Tasty Mutant Hound Stew,Sold by Antoine,true
 2989,Recipes,Consumables,Food,Tasty Mutton Meat Pie,Event: Free Range,true
-2990,Recipes,Consumables,Food,Tasty Radscorpion Egg Omelete,Sold by Antoine,true
+2990,Recipes,Consumables,Food,Tasty Radscorpion Egg Omelette,Sold by Antoine,true
 2991,Recipes,Consumables,Food,Tasty Squirrel Stew,Sold by Antoine,true
 2992,Recipes,Consumables,Food,Tasty Stingwing Stew,Sold by Antoine,true
 2993,Recipes,Consumables,Food,Tasty Yao Guai Roast,Sold by Antoine,true
 2994,Recipes,Consumables,Food,Tato Salad,Event: Grahm's Meat-Cook,true
-2995,Recipes,Consumables,Food,Delbert's Tato Salad Suprise,Silva Homestead: Kitchen Counter,true
+2995,Recipes,Consumables,Food,Delbert's Tato Salad Surprise,Silva Homestead: Kitchen Counter,true
 2996,Recipes,Consumables,Food,Vegetable Medley Soup,Learn on Use: Vegetable Medly Soup,true
 2997,Recipes,Consumables,Food,Wolf Ribs,Learn on Pickup: Raw Wolf Meat,true
 2998,Recipes,Consumables,Food,Yao Guai Pastry,Event: Tunnel of Love,true
@@ -2913,13 +2913,13 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3002,Recipes,Consumables,Healing,Blood Pack,Learn on Pickup: Tick Blood,true
 3003,Recipes,Consumables,Healing,Disease Cure (Ash Heap),Generic Events: Ash Heap Mutated Event Packages,true
 3004,Recipes,Consumables,Healing,Disease Cure (Cranberry Bog),Generic Events & Quests: Cranberry Bog,true
-3005,Recipes,Consumables,Healing,Disease Cure (Mire),The Retreat: Near the Pool Table,true
+3005,Recipes,Consumables,Healing,Disease Cure (The Mire),The Retreat: Near the Pool Table,true
 3006,Recipes,Consumables,Healing,Disease Cure (Savage Divide),Generic Events: Savage Divide,true
 3007,Recipes,Consumables,Healing,Disease Cure (Toxic Valley),Generic Events & Quests: Toxic Valley,true
 3008,Recipes,Consumables,Healing,Healing Salve (Ash Heap),Generic Events: Ash Heap Mutated Event Packages,true
 3009,Recipes,Consumables,Healing,Healing Salve (Cranberry Bog),Mutated Event Packages,true
 3010,Recipes,Consumables,Healing,Healing Salve (Forest),Generic Events & Quests: Forest Mutated Event Packages,true
-3011,Recipes,Consumables,Healing,Healing Salve (Mire),Mutated Event Packages,true
+3011,Recipes,Consumables,Healing,Healing Salve (The Mire),Mutated Event Packages,true
 3012,Recipes,Consumables,Healing,Healing Salve (Savage Divide),Generic Events: Savage Divide Mutated Event Packages,true
 3013,Recipes,Consumables,Healing,Healing Salve (Toxic Valley),Generic Events & Quests: Toxic Valley Mutated Event Packages,true
 3014,Recipes,Consumables,Healing,Nuka-Cola Vaccinated (My Blood's In It/Scorched),Quest: The New Arrivals,true
@@ -2928,9 +2928,9 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3017,Recipes,Consumables,Healing,Diluted Radaway,Quest: An Ounce of Prevention,true
 3018,Recipes,Consumables,Healing,RadShield,Quest: An Organic Solution,true
 3019,Recipes,Consumables,Healing,Skeeto Spit,Sold by MODUS Medical Terminal,true
-3020,Recipes,Consumables,Healing,Stimpack,Sold by MODUS Medical Terminal,true
-3021,Recipes,Consumables,Healing,Stimpack Diffuser,Event: Project Paradise Mutated Event Packages,true
-3022,Recipes,Consumables,Healing,Super Stimpack,Sold by MODUS Medical Terminal,true
+3020,Recipes,Consumables,Healing,Stimpak,Sold by MODUS Medical Terminal,true
+3021,Recipes,Consumables,Healing,Stimpak Diffuser,Event: Project Paradise Mutated Event Packages,true
+3022,Recipes,Consumables,Healing,Super Stimpak,Sold by MODUS Medical Terminal,true
 3023,Recipes,Consumables,Mutation Serums,Adrenal Reaction Serum,Sold by MODUS Science Terminal,true
 3024,Recipes,Consumables,Mutation Serums,Bird Bones Serum,Sold by MODUS Science Terminal,true
 3025,Recipes,Consumables,Mutation Serums,Carnivore Serum,Sold by MODUS Science Terminal,true
@@ -2942,7 +2942,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3031,Recipes,Consumables,Mutation Serums,Grounded Serum,Sold by MODUS Science Terminal,true
 3032,Recipes,Consumables,Mutation Serums,Healing Factor Serum,Sold by MODUS Science Terminal,true
 3033,Recipes,Consumables,Mutation Serums,Herbivore Serum,Sold by MODUS Science Terminal,true
-3034,Recipes,Consumables,Mutation Serums,Herd Mentalilty Serum,Sold by MODUS Science Terminal,true
+3034,Recipes,Consumables,Mutation Serums,Herd Mentality Serum,Sold by MODUS Science Terminal,true
 3035,Recipes,Consumables,Mutation Serums,Marsupial Serum,Sold by MODUS Science Terminal,true
 3036,Recipes,Consumables,Mutation Serums,Plague Walker Serum,Sold by MODUS Science Terminal,true
 3037,Recipes,Consumables,Mutation Serums,Scaly Skin Serum,Sold by MODUS Science Terminal,true
@@ -2958,7 +2958,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3047,Recipes,Others,Science Projects,Frog Jar,Quest: The Order of the Tadpole,true
 3048,Recipes,Others,Smelting,Ultracite Scrap,Learn on Pickup: Ultracite Ore,true
 3049,Recipes,Others,Thirst Zapper Ammo,Weaponized Nuka-Cherry Ammo,Nuka-Cade: Prize Terminal (Lvl 5),true
-3050,Recipes,Others,Thirst Zapper Ammo,Weaponized Nuka-ColaAmmo,Nuka-Cade: Prize Terminal (Lvl 5),true
+3050,Recipes,Others,Thirst Zapper Ammo,Weaponized Nuka-Cola Ammo,Nuka-Cade: Prize Terminal (Lvl 5),true
 3051,Recipes,Others,Thirst Zapper Ammo,Weaponized Nuka-Cola Quantum Ammo,Nuka-Cade: Prize Terminal (Lvl 5),true
 3052,Recipes,Others,Utility,Cutting Fluid,Mutated Event Packages,true
 3053,Recipes,Others,Utility,Water Filter,Random Spawns: Toxic Valley,true
@@ -2976,7 +2976,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3065,Tinker,All,Grenades,Orbital Scan Beacon,Quest: One of Us,true
 3066,Tinker,All,Grenades,Orbital Strike Beacon,Quest: One of Us,true
 3067,Tinker,All,Grenades,Pumpkin Grenade,Learn on Pickup: Pumpkin Grenade Quest: Trick or Treat?,true
-3068,Tinker,All,Grenades,Baseball Greanade,Learn on Pickup: Baseball,true
+3068,Tinker,All,Grenades,Baseball Grenade,Learn on Pickup: Baseball,true
 3069,Tinker,All,Grenades,Flare,Sold by Samuel (Cautious) & Minerva (Lists 10 & 12),true
 3070,Tinker,All,Grenades,Dynamite,"Sold by Mortimer (Cautious) & Minerva (Lists 2, 4, 18, & 20)",true
 3071,Tinker,All,Grenades,Nuka-Cola Grenade,Generic Events & Quests: Toxic Valley Explosive Crates,true
@@ -2987,7 +2987,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3076,Tinker,All,Grenades,Floater Gnasher Grenade,"Sold by Mortimer (Friendly) & Minerva (Lists 2, 4, 18, & 20)",true
 3077,Tinker,All,Grenades,MIRV Frag Grenade,Generic Events & Quests: Toxic Valley Explosive Crates,true
 3078,Tinker,All,Grenades,Pulse Grenade,Generic Events & Quests: Cranberry Bog Explosive Crates,true
-3079,Tinker,All,Grenades,Nuka-Quantum Grenade,Generic Events & Quests: Savage Divide Explosive Crates,true
+3079,Tinker,All,Grenades,Nuka Quantum Grenade,Generic Events & Quests: Savage Divide Explosive Crates,true
 3080,Tinker,All,Grenades,Plasma Grenade,Generic Events: Ash Heap,true
 3081,Tinker,All,Mines,Explosive Bait,Quest: Flavors of Mayhem,true
 3082,Tinker,All,Mines,Cryo Mine,Generic Events & Quests: Cranberry Bog Explosive Crates,true
@@ -3018,127 +3018,127 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3108,Tinker,All,Ultracite Ammo,Ultracite Plasma Core,Prime Receivers: Gatling Plasma,true
 3109,Tinker,All,Ultracite Ammo,Ultracite Railway Spike,Prime Receiver: Railway Rifle,true
 3110,Tinker,All,Ultracite Ammo,Ultracite Shotgun Shell,Prime Receivers: Combat Shotgun/Double-Barrel Shotgun Pump Action Shotgun,true
-3111,Weapons,,Melee,Assultron Blade,Sold by Freestates & Watoga Vendors,true
-3112,Weapons,,Melee,Auto-Axe,Sold by Giuseppe,true
-3113,Weapons,,Melee,Baseball Bat,Sold by Responder Vendors,true
-3114,Weapons,,Melee,Bear Arm,Event: Project Paradise Mutated Event Packages,true
-3115,Weapons,,Melee,Bowie Knife,Sold by Raider Vendors,true
-3116,Weapons,,Melee,Boxing Glove,Sold by Responder Vendors 175 Caps,true
-3117,Weapons,,Melee,Cattle Prod,"Sold by Samuel (Cautious) & Minerva (Lists 1, 4, 17, & 20)",true
-3118,Weapons,,Melee,Chinese Officer Sword,Random Weapon Plans: Toxic Valley  | Sold By Grahm,true
-3119,Weapons,,Melee,Cultist Blade,Sold by Free States & Watoga Vendors,true
-3120,Weapons,,Melee,Cultist Dagger,Sold by Free States & Watoga Vendors,true
-3121,Weapons,,Melee,Death Tambo,Sold by Free States & Watoga Vendors,true
-3122,Weapons,,Melee,Deathclaw Gauntlet,Goverment Aid Drops | Safes: Ash Heap | Mutated Event Packages,true
-3123,Weapons,,Melee,Electro Enforcer,Event: Invaders from Beyond,true
-3124,Weapons,,Melee,Face Breaker,Daily Ops (Rare),true
-3125,Weapons,,Melee,Fire Axe,Firebreather & Responder Corpses | Generic Events: Forest | Sold By Grahm,true
-3126,Weapons,,Melee,Gauntlet,Sold by Samuel (Friendly) & Minerva (Lists 10/12/19/20),true
-3127,Weapons,,Melee,Golf Club,Sold by Cunningham (Whitespring),true
-3128,Weapons,,Melee,Replica Grognak's Axe,Event: Test Your Metal,true
-3129,Weapons,,Melee,Guitar Sword,Random Weapon Plans: Savage Divide,true
-3130,Weapons,,Melee,Gulper Smacker,Event: Moonshine Jamboree,true
-3131,Weapons,,Melee,Knuckles,Sold by: Raider Vendors,true
-3132,Weapons,,Melee,Lead Pipe,Generic Events: Forest,true
-3133,Weapons,,Melee,Meat Hook,Random Weapon Plans: Forest | Sold By Grahm & Maul (Ally),true
-3134,Weapons,,Melee,Meat Tenderizer,Event: Grahm's Meat-Cook,true
-3135,Weapons,,Melee,Mechanic's Best Friend,Daily Ops (Rare) | Sold By Minerva (Lists 21 & 24),true
-3136,Weapons,,Melee,Mole Miner Gauntlet,Dropped from Mole Miners,true
-3137,Weapons,,Melee,Mr. Handy Buzz Blade,Dropped from Mr. Handies,true
-3138,Weapons,,Melee,Wood Axe (Multi-purpose),Sold by Brotherhood & Responder Vendors,true
-3139,Weapons,,Melee,Nuka Shank Knife,Event: Grahm's Meat-Cook,true
-3140,Weapons,,Melee,Pickaxe,Sold by Responder Vendors,true
-3141,Weapons,,Melee,Pipe Wrench,Sold by Responder Vendors,true
-3142,Weapons,,Melee,Pitchfork,Sold by Responder Vendors,true
-3143,Weapons,,Melee,Plasma Cutter,Daily Ops (Rare) | Sold By Minerva (Lists 13 & 16),true
-3144,Weapons,,Melee,Pole Hook,Random Weapon Plans: Toxic Valley,true
-3145,Weapons,,Melee,Pool Cue,Sold by Responder Vendors,true
-3146,Weapons,,Melee,Power Fist,Sold by Brotherood Vendors,true
-3147,Weapons,,Melee,Revolutionary War Sword,Sold by Filntlock (Whitespring),true
-3148,Weapons,,Melee,Ripper,Random Weapon Plans: Cranberry Bog/Mire | Sold By Grahm,true
-3149,Weapons,,Melee,Rolling Pin,Sold by Responder Vendors,true
-3150,Weapons,,Melee,Baton (Security),Sold by Responder Vendors,true
-3151,Weapons,,Melee,Sheepsquatch Club,Event: Free Range,true
-3152,Weapons,,Melee,Sheepsquatch Staff,Event: Free Range,true
-3153,Weapons,,Melee,Shepherd's Crook,Event: Free Range,true
-3154,Weapons,,Melee,Shishkebab,Random Weapon Plans: Ash Heap/Cranberry Bog/Mire | Sold By Grahm,true
-3155,Weapons,,Melee,Sickle,Sold by Raider Vendors,true
-3156,Weapons,,Melee,Ski Sword,Sold by Free States & Watoga Vendors,true
-3157,Weapons,,Melee,Sledge Hammer,Random Weapon Plans: Toxic Valley | Sold By Grahm,true
-3158,Weapons,,Melee,Spear,Generic Events: Savage Divide | Random Weapon Plans: Savage Divide/Toxic Valley,true
-3159,Weapons,,Melee,Super Sledge,Random Weapon Plans: Cranberry Bog | Sold By Grahm,true
-3160,Weapons,,Melee,Switchblade,Sold by Brotherhood Vendors,true
-3161,Weapons,,Melee,The Gutter,"Daily Ops (Rare) | Sold By Minerva (Lists 6, 8, 22, & 24)",true
-3162,Weapons,,Melee,Tire Iron,Sold by Raider Vendors,true
-3163,Weapons,,Melee,Unstoppable Monster,Daily Ops (Rare) | Sold By Minerva (Lists 10 & 12),true
-3164,Weapons,,Melee,Walking Cane,Sold by Cunningham,true
-3165,Weapons,,Melee,War Drum,Random Weapon Plans: Ash Heap/Cranberry Bog/Mire,true
-3166,Weapons,,Melee,War Glaive,"Daily Ops (Rare) | Sold By Minerva (Lists 1/4, 14, 16, 17, & 20)",true
-3167,Weapons,,Ranged,.44 Revolver,Sold by Raider & Responder Vendors,true
-3168,Weapons,,Ranged,.50 Cal Machine Gun,Sold by Brotherhood & Raider Vendors,true
-3169,Weapons,,Ranged,10mm Pistol,Sold by Responder Vendors,true
-3170,Weapons,,Ranged,10mm Submachine Gun,Sold By Raider Vendors,true
-3171,Weapons,,Ranged,Alien Blaster,Event: Invaders From Beyond,true
-3172,Weapons,,Ranged,Alien Disintegrator,Event: Invaders From Beyond,true
-3173,Weapons,,Ranged,Assault Rifle,Generic Events & Quests: Cranberry Bog/Mire | Mutated Event Packages,true
-3174,Weapons,,Ranged,Assaultron Head,Sold by Brotherhood Vendors,true
-3175,Weapons,,Ranged,Auto Grenade Launcher,Sold by Brotherhood & Raider Vendors,true
-3176,Weapons,,Ranged,Backpowder Pistol,Sold by Flintlock,true
-3177,Weapons,,Ranged,Backpowder Rifle,Sold by Flintlock,true
-3178,Weapons,,Ranged,Bow,Quest: The Elusive Crane | Sold By Ae-Ri (Friendly) & Sunny (Friendly),true
-3179,Weapons,,Ranged,Broadsider,Sold by Free States & Watoga Vendors,true
-3180,Weapons,,Ranged,Brotherhood Recon Rifle,Fort Defiance: Artillery Battery Terminal (Millitary ID Card),true
-3181,Weapons,,Ranged,Circut Breaker,Sold by Giuseppe,true
-3182,Weapons,,Ranged,Combat Shotgun,Sold by Brotherhood Vendors,true
-3183,Weapons,,Ranged,Compound Bow,Sold by Ae-Ri (Ally) & Sunny (Ally),true
-3184,Weapons,,Ranged,Crossbow,Sold by Free States & Watoga Vendors,true
-3185,Weapons,,Ranged,Crusader Pistol,"Daily Ops (Rare) | Minerva (Lists 9, 12, 23, & 24)",true
-3186,Weapons,,Ranged,Cryolator,Sold by Free States & Watoga Vendors,true
-3187,Weapons,,Ranged,Double Barrel Shotgun,Quest: Flavors of Mayhem,true
-3188,Weapons,,Ranged,Fatman,Generic Events & Quests: Cranberry Bog,true
-3189,Weapons,,Ranged,Flamer,Sold by Free States & Watoga Vendors,true
-3190,Weapons,,Ranged,Flare Gun,Sold by Responder Vendors,true
-3191,Weapons,,Ranged,Gamma Gun,Sold by Grahm,true
-3192,Weapons,,Ranged,Gatling Gun,Sold by Brotherhood Vendors,true
-3193,Weapons,,Ranged,Gatling Laser,Sold by Brotherhood Vendors & MODUS Armory Terminal,true
-3194,Weapons,,Ranged,Gatling Plasma,Sold by MODUS Armory Terminal,true
-3195,Weapons,,Ranged,Gauss Minigun,"Sold by Mortimer (Ally) & Minerva (Lists 5, 8, 13, 16, 21, & 24)",true
-3196,Weapons,,Ranged,Gauss Pistol,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
-3197,Weapons,,Ranged,Gauss Rifle,Sold by Brotherhood Vendors & MODUS Armory Terminal,true
-3198,Weapons,,Ranged,Gauss Shotgun,Sold by Samuel (Ally) & Minerva (Lists 7 & 8),true
-3199,Weapons,,Ranged,Handmade Gun,Sold by Free States & Watoga Vendors,true
-3200,Weapons,,Ranged,Harpoon Gun,Sold by Free States & Watoga Vendors,true
-3201,Weapons,,Ranged,Hellstorm Missile Launcher,Daily Ops (Rare) | Sold By Minerva (Lists 10 & 12),true
-3202,Weapons,,Ranged,Hunting Rifle,Quest: Hunter for Hire | Sold By Responder Vendors,true
-3203,Weapons,,Ranged,Laser Gun,Random Weapon Plans: Forest/Toxic Valley,true
-3204,Weapons,,Ranged,Lever Gun,Sold by Responder Vendors,true
-3205,Weapons,,Ranged,M79 Grenade Launcher,Sold by Raider Vendors,true
-3206,Weapons,,Ranged,MG42 Light Machine Gun,Sold by Responder Vendors,true
-3207,Weapons,,Ranged,Medical Malpractice,Daily Ops (Rare) | Sold By Minerva (Lists 14 & 16),true
-3208,Weapons,,Ranged,Minigun,Quest: Belly of the Beast,true
-3209,Weapons,,Ranged,Missile Launcher,Quest: Key to the Past,true
-3210,Weapons,,Ranged,Pepper Shaker,Event: Grahm's Meat-Cook,true
-3211,Weapons,,Ranged,Plasma Caster,"Sold by Regs & Minerva (Lists 6, 8, 22, & 24)",true
-3212,Weapons,,Ranged,Plasma Gun,Sold by Brotherhood Vendors,true
-3213,Weapons,,Ranged,Pump-Action Shotgun,Random Weapon Plans: Forest/Toxic Valley,true
-3214,Weapons,,Ranged,Radium Rifle,Sold by Free States & Watoga Vendors,true
-3215,Weapons,,Ranged,Railway Rifle,Sold by Free States & Watoga Vendors,true
-3216,Weapons,,Ranged,Single-Action Revolver,Sold by Responder Vendors,true
-3217,Weapons,,Ranged,Sole Survivor,Daily Ops (Rare) & Sold By Minerva (Lists 18/20),true
-3218,Weapons,,Ranged,Submachine Gun,Sold by Responder Vendors,true
-3219,Weapons,,Ranged,Tesla Rifle,Sold by Brotherhood Vendors,true
-3220,Weapons,,Ranged,The Fixer,Event: Encryptid (Quest: The Lowe-Down Completed) | Mutated Event Packages,true
-3221,Weapons,,Ranged,Thirst Zapper,Learn from Scrapping Thirst Zapper (Nuka-Cade Prize Terminal Lvl 3),true
-3222,Weapons,,Ranged,Ultracite Gatling Laser,Generic Events & Quests: Cranberry Bog,true
-3223,Weapons,,Ranged,Ultracite Laser Gun,Sold by Brotherhood Vendors,true
-3224,Weapons,,Ranged,Revolver (Western),Sold by Brotherhood & Raider Vendors,true
-3225,Weapons,,Ranged,Whistle In The Dark,"Daily Ops (Rare) | Sold By Minerva (Lists 6, 8, 22, & 24)",true
-3226,Weapons,,Throwing Weapons,Meat Cleaver,Event: Grahm's Meat-Cook,true
-3227,Weapons,,Throwing Weapons,Sheepsquatch Shard,Event: Free Range,true
-3228,Weapons,,Throwing Weapons,Tomahawk,Generic Events & Quests: Forest,true
+3111,Weapons,Melee,Sharp Weapons,Assaultron Blade,Sold by Freestates & Watoga Vendors,true
+3112,Weapons,Melee,Power Tools,Auto Axe,Sold by Giuseppe,true
+3113,Weapons,Melee,Blunt Weapons,Baseball Bat,Sold by Responder Vendors,true
+3114,Weapons,Melee,Fist Weapons,Bear Arm,Event: Project Paradise Mutated Event Packages,true
+3115,Weapons,Melee,Sharp Weapons,Bowie Knife,Sold by Raider Vendors,true
+3116,Weapons,Melee,Fist Weapons,Boxing Glove,Sold by Responder Vendors 175 Caps,true
+3117,Weapons,Melee,Blunt Weapons,Cattle Prod,"Sold by Samuel (Cautious) & Minerva (Lists 1, 4, 17, & 20)",true
+3118,Weapons,Melee,Sharp Weapons,Chinese Officer Sword,Random Weapon Plans: Toxic Valley  | Sold By Grahm,true
+3119,Weapons,Melee,Sharp Weapons,Cultist Blade,Sold by Free States & Watoga Vendors,true
+3120,Weapons,Melee,Sharp Weapons,Cultist Dagger,Sold by Free States & Watoga Vendors,true
+3121,Weapons,Melee,Fist Weapons,Death Tambo,Sold by Free States & Watoga Vendors,true
+3122,Weapons,Melee,Fist Weapons,Deathclaw Gauntlet,Goverment Aid Drops | Safes: Ash Heap | Mutated Event Packages,true
+3123,Weapons,Melee,Blunt Weapons,Electro Enforcer,Event: Invaders from Beyond,true
+3124,Weapons,Melee,Fist Weapons,Face Breaker,Daily Ops (Rare),true
+3125,Weapons,Melee,Sharp Weapons,Fire Axe,Firebreather & Responder Corpses | Generic Events: Forest | Sold By Grahm,true
+3126,Weapons,Melee,Fist Weapons,Gauntlet,Sold by Samuel (Friendly) & Minerva (Lists 10/12/19/20),true
+3127,Weapons,Melee,Blunt Weapons,Golf Club,Sold by Cunningham (Whitespring),true
+3128,Weapons,Melee,Sharp Weapons,Replica Grognak's Axe,Event: Test Your Metal,true
+3129,Weapons,Melee,Sharp Weapons,Guitar Sword,Random Weapon Plans: Savage Divide,true
+3130,Weapons,Melee,Blunt Weapons,Gulper Smacker,Event: Moonshine Jamboree,true
+3131,Weapons,Melee,Fist Weapons,Knuckles,Sold by: Raider Vendors,true
+3132,Weapons,Melee,Blunt Weapons,Lead Pipe,Generic Events: Forest,true
+3133,Weapons,Melee,Fist Weapons,Meat Hook,Random Weapon Plans: Forest | Sold By Grahm & Maul (Ally),true
+3134,Weapons,Melee,Blunt Weapons,Meat Tenderizer,Event: Grahm's Meat-Cook,true
+3135,Weapons,Melee,Blunt Weapons,Mechanic's Best Friend,Daily Ops (Rare) | Sold By Minerva (Lists 21 & 24),true
+3136,Weapons,Melee,Fist Weapons,Mole Miner Gauntlet,Dropped from Mole Miners,true
+3137,Weapons,Melee,Power Tools,Mr. Handy Buzz Blade,Dropped from Mr. Handies,true
+3138,Weapons,Melee,Sharp Weapons,Wood Axe,Sold by Brotherhood & Responder Vendors,true
+3139,Weapons,Melee,Sharp Weapons,Nuka Shank Knife,Event: Grahm's Meat-Cook,true
+3140,Weapons,Melee,Sharp Weapons,Pickaxe,Sold by Responder Vendors,true
+3141,Weapons,Melee,Blunt Weapons,Pipe Wrench,Sold by Responder Vendors,true
+3142,Weapons,Melee,Sharp Weapons,Pitchfork,Sold by Responder Vendors,true
+3143,Weapons,Melee,Sharp Weapons,Plasma Cutter,Daily Ops (Rare) | Sold By Minerva (Lists 13 & 16),true
+3144,Weapons,Melee,Sharp Weapons,Pole Hook,Random Weapon Plans: Toxic Valley,true
+3145,Weapons,Melee,Blunt Weapons,Pool Cue,Sold by Responder Vendors,true
+3146,Weapons,Melee,Fist Weapons,Power Fist,Sold by Brotherood Vendors,true
+3147,Weapons,Melee,Sharp Weapons,Revolutionary War Sword,Sold by Filntlock (Whitespring),true
+3148,Weapons,Melee,Power Tools,Ripper,Random Weapon Plans: Cranberry Bog/Mire | Sold By Grahm,true
+3149,Weapons,Melee,Blunt Weapons,Rolling Pin,Sold by Responder Vendors,true
+3150,Weapons,Melee,Blunt Weapons,Baton (Security),Sold by Responder Vendors,true
+3151,Weapons,Melee,Blunt Weapons,Sheepsquatch Club,Event: Free Range,true
+3152,Weapons,Melee,Blunt Weapons,Sheepsquatch Staff,Event: Free Range,true
+3153,Weapons,Melee,Blunt Weapons,Shepherd's Crook,Event: Free Range,true
+3154,Weapons,Melee,Sharp Weapons,Shishkebab,Random Weapon Plans: Ash Heap/Cranberry Bog/Mire | Sold By Grahm,true
+3155,Weapons,Melee,Sharp Weapons,Sickle,Sold by Raider Vendors,true
+3156,Weapons,Melee,Sharp Weapons,Ski Sword,Sold by Free States & Watoga Vendors,true
+3157,Weapons,Melee,Blunt Weapons,Sledge Hammer,Random Weapon Plans: Toxic Valley | Sold By Grahm,true
+3158,Weapons,Melee,Sharp Weapons,Spear,Generic Events: Savage Divide | Random Weapon Plans: Savage Divide/Toxic Valley,true
+3159,Weapons,Melee,Blunt Weapons,Super Sledge,Random Weapon Plans: Cranberry Bog | Sold By Grahm,true
+3160,Weapons,Melee,Sharp Weapons,Switchblade,Sold by Brotherhood Vendors,true
+3161,Weapons,Melee,Sharp Weapons,The Gutter,"Daily Ops (Rare) | Sold By Minerva (Lists 6, 8, 22, & 24)",true
+3162,Weapons,Melee,Blunt Weapons,Tire Iron,Sold by Raider Vendors,true
+3163,Weapons,Melee,Fist Weapons,Unstoppable Monster,Daily Ops (Rare) | Sold By Minerva (Lists 10 & 12),true
+3164,Weapons,Melee,Blunt Weapons,Walking Cane,Sold by Cunningham,true
+3165,Weapons,Melee,Blunt Weapons,War Drum,Random Weapon Plans: Ash Heap/Cranberry Bog/Mire,true
+3166,Weapons,Melee,Sharp Weapons,War Glaive,"Daily Ops (Rare) | Sold By Minerva (Lists 1/4, 14, 16, 17, & 20)",true
+3167,Weapons,Ranged,Machined Guns,.44 Revolver,Sold by Raider & Responder Vendors,true
+3168,Weapons,Ranged,Heavy Guns,.50 Cal Machine Gun,Sold by Brotherhood & Raider Vendors,true
+3169,Weapons,Ranged,Machined Guns,10mm Pistol,Sold by Responder Vendors,true
+3170,Weapons,Ranged,Machined Guns,10mm Submachine Gun,Sold By Raider Vendors,true
+3171,Weapons,Ranged,Energy Guns,Alien Blaster,Event: Invaders From Beyond,true
+3172,Weapons,Ranged,Energy Guns,Alien Disintegrator,Event: Invaders From Beyond,true
+3173,Weapons,Ranged,Machined Guns,Assault Rifle,Generic Events & Quests: Cranberry Bog/Mire | Mutated Event Packages,true
+3174,Weapons,Ranged,Energy Guns,Assaultron Head,Sold by Brotherhood Vendors,true
+3175,Weapons,Ranged,Launchers,Auto Grenade Launcher,Sold by Brotherhood & Raider Vendors,true
+3176,Weapons,Ranged,Machined Guns,Blackpowder Pistol,Sold by Flintlock,true
+3177,Weapons,Ranged,Machined Guns,Blackpowder Rifle,Sold by Flintlock,true
+3178,Weapons,Ranged,Survival,Bow,Quest: The Elusive Crane | Sold By Ae-Ri (Friendly) & Sunny (Friendly),true
+3179,Weapons,Ranged,Launchers,Broadsider,Sold by Free States & Watoga Vendors,true
+3180,Weapons,Ranged,Machined Guns,Brotherhood Recon Rifle,Fort Defiance: Artillery Battery Terminal (Millitary ID Card),true
+3181,Weapons,Ranged,Energy Guns,Circuit Breaker,Sold by Giuseppe,true
+3182,Weapons,Ranged,Machined Guns,Combat Shotgun,Sold by Brotherhood Vendors,true
+3183,Weapons,Ranged,Machined Guns,Compound Bow,Sold by Ae-Ri (Ally) & Sunny (Ally),true
+3184,Weapons,Ranged,Survival,Crossbow,Sold by Free States & Watoga Vendors,true
+3185,Weapons,Ranged,Machined Guns,Crusader Pistol,"Daily Ops (Rare) | Minerva (Lists 9, 12, 23, & 24)",true
+3186,Weapons,Ranged,Heavy Guns,Cryolator,Sold by Free States & Watoga Vendors,true
+3187,Weapons,Ranged,Machined Guns,Double Barrel Shotgun,Quest: Flavors of Mayhem,true
+3188,Weapons,Ranged,Launchers,Fatman,Generic Events & Quests: Cranberry Bog,true
+3189,Weapons,Ranged,Heavy Guns,Flamer,Sold by Free States & Watoga Vendors,true
+3190,Weapons,Ranged,Machined Guns,Flare Gun,Sold by Responder Vendors,true
+3191,Weapons,Ranged,Energy Guns,Gamma Gun,Sold by Grahm,true
+3192,Weapons,Ranged,Heavy Guns,Gatling Gun,Sold by Brotherhood Vendors,true
+3193,Weapons,Ranged,Heavy Guns,Gatling Laser,Sold by Brotherhood Vendors & MODUS Armory Terminal,true
+3194,Weapons,Ranged,Heavy Guns,Gatling Plasma,Sold by MODUS Armory Terminal,true
+3195,Weapons,Ranged,Heavy Guns,Gauss Minigun,"Sold by Mortimer (Ally) & Minerva (Lists 5, 8, 13, 16, 21, & 24)",true
+3196,Weapons,Ranged,Energy Guns,Gauss Pistol,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
+3197,Weapons,Ranged,Energy Guns,Gauss Rifle,Sold by Brotherhood Vendors & MODUS Armory Terminal,true
+3198,Weapons,Ranged,Energy Guns,Gauss Shotgun,Sold by Samuel (Ally) & Minerva (Lists 7 & 8),true
+3199,Weapons,Ranged,Machined Guns,Handmade Gun,Sold by Free States & Watoga Vendors,true
+3200,Weapons,Ranged,Heavy Guns,Harpoon Gun,Sold by Free States & Watoga Vendors,true
+3201,Weapons,Ranged,Launchers,Hellstorm Missile Launcher,Daily Ops (Rare) | Sold By Minerva (Lists 10 & 12),true
+3202,Weapons,Ranged,Machined Guns,Hunting Rifle,Quest: Hunter for Hire | Sold By Responder Vendors,true
+3203,Weapons,Ranged,Energy Guns,Laser Gun,Random Weapon Plans: Forest/Toxic Valley,true
+3204,Weapons,Ranged,Machined Guns,Lever Gun,Sold by Responder Vendors,true
+3205,Weapons,Ranged,Launchers,M79 Grenade Launcher,Sold by Raider Vendors,true
+3206,Weapons,Ranged,Heavy Guns,MG42 Light Machine Gun,Sold by Responder Vendors,true
+3207,Weapons,Ranged,Machined Guns,Medical Malpractice,Daily Ops (Rare) | Sold By Minerva (Lists 14 & 16),true
+3208,Weapons,Ranged,Heavy Guns,Minigun,Quest: Belly of the Beast,true
+3209,Weapons,Ranged,Launchers,Missile Launcher,Quest: Key to the Past,true
+3210,Weapons,Ranged,Heavy Guns,Pepper Shaker,Event: Grahm's Meat-Cook,true
+3211,Weapons,Ranged,Heavy Guns,Plasma Caster,"Sold by Regs & Minerva (Lists 6, 8, 22, & 24)",true
+3212,Weapons,Ranged,Energy Guns,Plasma Gun,Sold by Brotherhood Vendors,true
+3213,Weapons,Ranged,Machined Guns,Pump-Action Shotgun,Random Weapon Plans: Forest/Toxic Valley,true
+3214,Weapons,Ranged,Machined Guns,Radium Rifle,Sold by Free States & Watoga Vendors,true
+3215,Weapons,Ranged,Machined Guns,Railway Rifle,Sold by Free States & Watoga Vendors,true
+3216,Weapons,Ranged,Machined Guns,Single-Action Revolver,Sold by Responder Vendors,true
+3217,Weapons,Ranged,Machined Guns,Sole Survivor,Daily Ops (Rare) & Sold By Minerva (Lists 18/20),true
+3218,Weapons,Ranged,Machined Guns,Submachine Gun,Sold by Responder Vendors,true
+3219,Weapons,Ranged,Energy Guns,Tesla Rifle,Sold by Brotherhood Vendors,true
+3220,Weapons,Ranged,Machined Guns,The Fixer,Event: Encryptid (Quest: The Lowe-Down Completed) | Mutated Event Packages,true
+3221,Weapons,Ranged,Energy Guns,Thirst Zapper,Learn from scrapping Thirst Zapper (Nuka-Cade Prize Terminal Lvl 3),true
+3222,Weapons,Ranged,Heavy Guns,Ultracite Gatling Laser,Generic Events & Quests: Cranberry Bog,true
+3223,Weapons,Ranged,Energy Guns,Ultracite Laser Gun,Sold by Brotherhood Vendors,true
+3224,Weapons,Ranged,Machined Guns,Revolver (Western),Sold by Brotherhood & Raider Vendors,true
+3225,Weapons,Ranged,Machined Guns,Whistle In The Dark,"Daily Ops (Rare) | Sold By Minerva (Lists 6, 8, 22, & 24)",true
+3226,Weapons,Ranged,Survival,Meat Cleaver,Event: Grahm's Meat-Cook,true
+3227,Weapons,Ranged,Survival,Sheepsquatch Shard,Event: Free Range,true
+3228,Weapons,Ranged,Survival,Tomahawk,Generic Events & Quests: Forest,true
 3229,Paints,,Ranged Weapons,.44 Blue Camo Paint,Event: Holiday Scorched,true
 3230,Paints,,Ranged Weapons,.44 roulette paint,Weekly Expedition Reward: Tax Evasion | Sold By Giuseppe,true
-3231,Paints,,Ranged Weapons,10mm Pistol Hot Rod Shark Paint,Event: Encryptid,true
+3231,Paints,,Ranged Weapons,10mm Hot Rod Shark Paint,Event: Encryptid,true
 3232,Paints,,Ranged Weapons,Assault Rifle Wraith's Wrath Paint,Event: Spooky Scorched,true
 3233,Paints,,Ranged Weapons,Auto Grenade Launcher Blood Eagle Paint,Daily Ops (Rare),true
 3234,Paints,,Ranged Weapons,Brotherhood of Steel Minigun Paint,Sold by Minerva (Lists 23 & 24),true
@@ -3147,9 +3147,9 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3237,Paints,,Melee Weapons,Chainsaw Skeptikill Paint,Event: The Mothman Equinox,true
 3238,Paints,,Ranged Weapons,Fanatics Pump-Action Shotgun Paint,Weekly Expedition Reward: From Ashes to Fire | Sold By Giuseppe,true
 3239,Paints,,Ranged Weapons,Gunmetal Weapon Loadout Paints,Sold by June Seaver,true
-3240,Paints,,Ranged Weapons,Hot Rod Handmade Paint,Daily Ops (Rare),true
+3240,Paints,,Ranged Weapons,Hot Rod Handmade Skin,Daily Ops (Rare),true
 3241,Paints,,Ranged Weapons,Hunting Rifle Skin - Union,Weekly Expedition Reward: Union Dues | Sold By Giuseppe,true
-3242,Paints,,Ranged Weapons,Intergalactic Handmade Paint,Daily Ops (Uncommon),true
+3242,Paints,,Ranged Weapons,Intergalactic Handmade Skin,Daily Ops (Uncommon),true
 3243,Paints,,Ranged Weapons,Laser Gun Blue Camo Paint,Event: Treasure Hunter,true
 3244,Paints,,Ranged Weapons,Laser Gun Hot Rod Flames Paint,Event: A Colossal Problem,true
 3245,Paints,,Ranged Weapons,Minigun Hot Rod Shark Paint,Event: Project Paradise,true
@@ -3210,7 +3210,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3300,Unobtainables,Cut Recipe,Plans,Flaming Skull Rider Helmet,Cut Plan,false
 3301,Unobtainables,Cut Recipe,Plans,Flashbang,Cut Plan,false
 3302,Unobtainables,Cut Recipe,Plans,Frame Backpack,Cut Plan,false
-3303,Unobtainables,Cut Recipe,Plans,Fur-lined Jacket & Jeans,Cut Plan,false
+3303,Unobtainables,Cut Recipe,Plans,Fur-lined Jacket and Jeans,Cut Plan,false
 3304,Unobtainables,Cut Recipe,Plans,Gauss Minigun Hex Barrel,Cut Plan,false
 3305,Unobtainables,Cut Recipe,Plans,Ghillie Suit Hood,Cut Plan,false
 3306,Unobtainables,Cut Recipe,Plans,Ghillie Suit,Cut Plan,false
@@ -3247,6 +3247,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3337,Unobtainables,Cut Recipe,Plans,Scanning Module,Cut Plan,false
 3338,Unobtainables,Cut Recipe,Plans,Smart Frag Grenade,Cut Plan,false
 3339,Unobtainables,Cut Recipe,Plans,Smoke Grenade,Cut Plan,false
+3340,Unobtainables,Cut Recipe,Plans,Metal Armor Snowflakes Paint,Cut Plan,false
 3341,Unobtainables,Cut Recipe,Plans,Soundmaker,Cut Plan,false
 3342,Unobtainables,Cut Recipe,Plans,Spiked Paddle Ball,Cut Plan,false
 3343,Unobtainables,Moved to Atomic Shop,Plans,Spy Outfit,Moved to Atomic Shop,false
@@ -3261,7 +3262,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3352,Unobtainables,Cut Recipe,Plans,T-51b VATS Matrix Overlay,Cut Plan,false
 3353,Unobtainables,Cut Recipe,Plans,T-51b Vim! Paint,Cut Plan,false
 3354,Unobtainables,Cut Recipe,Plans,T-51b Winterized Coating,Cut Plan,false
-3355,Unobtainables,Cut Recipe,Plans,T-60 Atom Cats Paint,Cut Plan,false
+3355,Unobtainables,Cut Recipe,Plans,T-60 Atom Cat Paint,Cut Plan,false
 3356,Unobtainables,Cut Recipe,Plans,T-60 BOS Sentinel paint,Cut Plan,false
 3357,Unobtainables,Cut Recipe,Plans,T-60 BOS Standard paint,Cut Plan,false
 3358,Unobtainables,Cut Recipe,Plans,T-60 Headlamp(s),Cut Plan,false
@@ -3307,7 +3308,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3398,C.A.M.P,Building,Lights,Glowing Flatwoods Monster Lamp,Event: Invaders From Beyond,true
 3399,Clothing,Accessories,Outfits,Hazmat Suit - Teal,Event: Invaders From Beyond,true
 3400,Paints,,Ranged Paints,Zenith Alien Blaster Paint,Event: Invaders From Beyond,true
-3401,C.A.M.P,Decorations,Displays,Megalonyx Display Case,Event: Grahm's Meat-Cook,true
+3401,C.A.M.P,Decorations,Displays,Megalonyx Display Rack,Event: Grahm's Meat-Cook,true
 3402,C.A.M.P,Decorations,Wall Decor,Cattle Flour Billboards,Event: Grahm's Meat-Cook,true
 3403,C.A.M.P,Utilities,Resources,Weenie Wagon,Event: Grahm's Meat-Cook,true
 3404,C.A.M.P,Decorations,Floor Decor,Swarm of Flies,Event: Grahm's Meat-Cook,true
@@ -3328,7 +3329,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3419,C.A.M.P,Decorations,Misc. Structures,Lightning Harvester,Event: Dangerous Pastimes,true
 3420,C.A.M.P,Decorations,Misc. Structures,Lost Tube,Event: Dangerous Pastimes,true
 3421,C.A.M.P,Decorations,Misc. Structures,Moe the Mole Safety Cutout,Event: Dangerous Pastimes,true
-3422,Clothing,Accessories,Outfits,Shenandoah T-Shirt & Jeans,Event: Dangerous Pastimes,true
+3422,Clothing,Accessories,Outfits,Shenandoah T-Shirt and Jeans,Event: Dangerous Pastimes,true
 3423,Clothing,Accessories,Headwear,Vault 63 Recon Helmet Burnt,Event: Dangerous Pastimes,true
 3424,Clothing,Accessories,Outfits,Vault 63 Recon Outfit Burnt,Event: Dangerous Pastimes,true
 3425,Clothing,Accessories,Headwear,Vault 63 Riot Control Helmet Burnt,Event: Dangerous Pastimes,true
@@ -3352,16 +3353,16 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3443,C.A.M.P,Decorations,Misc. Structures,Shenandoah Road Sign,Event: Neurological Warfare,true
 3444,C.A.M.P,Decorations,Displays,Storm Goliath Figure,Event: Neurological Warfare,true
 3445,C.A.M.P,Decorations,Displays,Taxidermy Thrasher,Event: Neurological Warfare,true
-3446,Clothing,Backpack,Backpacks,Thrasher Plushie Backpack (nontradable),Event: Neurological Warfare,true
+3446,Clothing,Backpack,Backpacks,Thrasher Plushie Backpack,Event: Neurological Warfare,true
 3447,Clothing,Accessories,Headwear,Vault 63 Recon Helmet,Event: Neurological Warfare,true
 3448,Clothing,Accessories,Outfits,Vault 63 Recon Outfit,Event: Neurological Warfare,true
 3449,Clothing,Accessories,Headwear,Vault 63 Security Helmet,Event: Neurological Warfare,true
 3450,Clothing,Accessories,Outfits,Vault 63 Security Outfit,Event: Neurological Warfare,true
 3451,Clothing,Accessories,Headwear,Vault 63 Riot Control Helmet,Event: Neurological Warfare,true
 3452,Clothing,Accessories,Outfits,Vault 63 Riot Control Outfit,Event: Neurological Warfare,true
-3453,Weapons,,Melee,V63 Shock Baton,Event: Neurological Warfare,true
+3453,Weapons,Melee,Blunt Weapons,V63 Shock Baton,Event: Neurological Warfare,true
 3454,C.A.M.P,Decorations,Wall Decor,V63 Weather Machine,Event: Neurological Warfare,true
-3455,Weapons,,Melee,V63 Zweihaender,Event: Neurological Warfare,true
+3455,Weapons,Melee,Sharp Weapons,V63 Zweihaender,Event: Neurological Warfare,true
 3456,C.A.M.P,Decorations,Wall Decor,Cassidy's Favorite Painting,Quest: Between The Lines,true
 3457,Clothing,Accessories,Headwear,Cultist Monarch Mask,Quest: Oldest Trick in the Book,true
 3458,Clothing,Accessories,Outfits,Cultist Monarch Outfit,Quest: Oldest Trick in the Book,true
@@ -3389,9 +3390,9 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3492,C.A.M.P,Decorations,Floor Decor,Plastiform Snowman,Event: Holiday Scorched,true
 3493,C.A.M.P,Decorations,Floor Decor,Plastiform Vaultboy Elf,Event: Holiday Scorched,true
 3494,Clothing,Backpack,Flairs,Snowman Head Backpack Flair,Event: Holiday Scorched,true
-3495,Weapons,,Ranged,Cremator,Sold by Mortimer (Ally),true
+3495,Weapons,Ranged,Heavy Guns,Cremator,Sold by Mortimer (Ally),true
 3496,Mods,Ranged Weapons,Cremator,Cremator Chemical Color Mods,Sold by Mortimer (Ally),true
-3497,Mods,Ranged Weapons,Cremator,Cremator Double Shot & Multi Shot Barrels,Sold by Mortimer (Ally),true
+3497,Mods,Ranged Weapons,Cremator,Cremator Double Shot and Multi Shot Barrels,Sold by Mortimer (Ally),true
 3498,Mods,Ranged Weapons,Cremator,Cremator Heavy Barrel Mod,Sold by Mortimer (Ally),true
 3499,Mods,Ranged Weapons,Cremator,Cremator Napalmer Mod,Sold by Mortimer (Ally),true
 3500,Mods,Ranged Weapons,Cremator,Cremator Slowburner Mod,Sold by Mortimer (Ally),true
@@ -3425,7 +3426,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3528,C.A.M.P,Decorations,Floor Decor,Josie's Snow Globe,Given by Josie @ tier 2 after being given Addictol or Calmex,true
 3529,C.A.M.P,Decorations,Floor Decor,Marley's Snow Globe,Received after hiring first vendor,true
 3530,C.A.M.P,Decorations,Floor Decor,Rolled Persian Rugs,Sold by Ineke @ Tier 1,true
-3531,C.A.M.P,Decorations,Floor Decor,Shenandoah Visitor Center Snow Globe,Sold by Ineke @ Tier 3,true
+3531,C.A.M.P,Decorations,Floor Decor,Shenandoah Vistor Center Snow Globe,Sold by Ineke @ Tier 3,true
 3532,C.A.M.P,Decorations,Floor Decor,Slumber Mill Motel Snow Globe,Sold by Ineke @ Tier 3,true
 3533,C.A.M.P,Decorations,Floor Decor,Stargazer's Telescope,Sold by Ineke @ Tier 2,true
 3534,C.A.M.P,Decorations,Floor Decor,Theodore's Snow Globe,Quest: Unconventional Weaponry,true
@@ -3438,7 +3439,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3541,Clothing,Accessories,Headwear,Lederhosen Outfit Hat,Sold by Ineke @ Tier 2,true
 3542,Clothing,Accessories,Headwear,Redcoat Hat,Sold by Ineke @ Tier 3,true
 3543,Clothing,Accessories,Outfits,Redcoat Outfit,Sold by Ineke @ Tier 3,true
-3544,Clothing,Backpack,Material,Vault Boy Plushie,Sold by Ineke @ Tier 3,true
+3544,Clothing,Backpack,Material,Vault Boy Plushie Backpack,Sold by Ineke @ Tier 3,true
 3545,Clothing,Backpack,Material,Vault Girl Plushie Backpack,Sold by Ineke @ Tier 3,true
 3546,Mods,Ranged Weapons,V63 Laser Carbine,Bruising Stock,Sold by Ineke @ Tier 3,true
 3547,Mods,Ranged Weapons,V63 Laser Carbine,Cyclic Capacitor,Sold by Ineke @ Tier 3,true
@@ -3556,9 +3557,9 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3659,Legendary Mods,,3* Mods,Thru-hiker's,"Scrapping Thru-hiker's Armor, Power Armor, or Mod Boxes",true
 3660,Legendary Mods,,3* Mods,Toxic,"Scrapping Toxic Armor, Power Armor, or Mod Boxes",true
 3661,Legendary Mods,,3* Mods,V.A.T.S. Optimized,Scrapping V.A.T.S. Optimized Weapons or Mod Boxes,true
-3662,Weapons,,Melee,Blade of Bastet,Quest: Forging a Legend,true
-3663,Weapons,,Ranged,Voice of Set,Quest: Use the Order of Mysteries' Fabricator During Prototypical Problems,true
-3664,Weapons,,Ranged,V63 Laser Carbine,Quest: Unconventional Weaponry,true
+3662,Weapons,Melee,Sharp Weapons,Blade of Bastet,Quest: Forging a Legend,true
+3663,Weapons,Ranged,Machined Guns,Voice of Set,Quest: Use the Order of Mysteries' Fabricator During Prototypical Problems,true
+3664,Weapons,Ranged,Energy Guns,V63 Laser Carbine,Quest: Unconventional Weaponry,true
 3665,C.A.M.P,Decorations,Floor Decor,Ineke's Snow Globe,Given by Ineke after upgrading to Tier 3,true
 3666,C.A.M.P,Decorations,Floor Decor,Futuristic Globe,Event: Invaders from Beyond,true
 3667,C.A.M.P,Decorations,Floor Decor,Nuka-Cherry Rocket,Event: Invaders from Beyond,true
@@ -3569,14 +3570,14 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3672,C.A.M.P,Decorations,Floor Decor,Nuka-Grape Rocket,Event: Invaders from Beyon,true
 3673,C.A.M.P,Furniture,Chairs,Alien Couch,Event: Invaders from Beyond,true
 3674,Clothing,Accessories,Outfits,Hazmat Suit - Pink,Event: Invaders from Beyond,true
-3675,Weapons,,Ranged,Boiling Point,Raid: Gleaming Depths Stage - 5th Stage,true
-3676,Weapons,,Melee,Cauterizer,Raid: Gleaming Depths Stage - 4th Stage,true
-3677,Weapons,,Melee,Drill Fist,Raid: Gleaming Depths Stage - 2nd Stage,true
-3678,Weapons,,Ranged,Flatliner,Raid: Gleaming Depths Stage - 3rd Stage,true
-3679,Weapons,,Ranged,Lickety-Split,Raid: Gleaming Depths Stage - 4th Stage,true
-3680,Weapons,,Ranged,Resolve Breaker,Raid: Gleaming Depths Stage - 3rd Stage,true
-3681,Weapons,,Melee,Ultracite Terror Sword,Raid: Gleaming Depths Stage - 5th Stage,true
-3682,Weapons,,Ranged,Valkyrie,Raid: Gleaming Depths Stage - 1st Stage,true
+3675,Weapons,Ranged,Heavy Guns,Boiling Point,Raid: Gleaming Depths Stage - 5th Stage,true
+3676,Weapons,Melee,Power Tools,Cauterizer,Raid: Gleaming Depths Stage - 4th Stage,true
+3677,Weapons,Melee,Fist Weapons,Drill Fist,Raid: Gleaming Depths Stage - 2nd Stage,true
+3678,Weapons,Ranged,Energy Guns,Flatliner,Raid: Gleaming Depths Stage - 3rd Stage,true
+3679,Weapons,Ranged,Machined Guns,Lickety-Split,Raid: Gleaming Depths Stage - 4th Stage,true
+3680,Weapons,Ranged,Launchers,Resolve Breaker,Raid: Gleaming Depths Stage - 3rd Stage,true
+3681,Weapons,Melee,Sharp Weapons,Ultracite Terror Sword,Raid: Gleaming Depths Stage - 5th Stage,true
+3682,Weapons,Ranged,Heavy Guns,Valkyrie,Raid: Gleaming Depths Stage - 1st Stage,true
 3683,Armor,Power Armor,Vulcan Power Armor,Vulcan Helmet,Raid: Gleaming Depths - Any Stage,true
 3684,Armor,Power Armor,Vulcan Power Armor,Vulcan Left Arm,Raid: Gleaming Depths - Any Stage,true
 3685,Armor,Power Armor,Vulcan Power Armor,Vulcan Left Leg,Raid: Gleaming Depths - Any Stage,true
@@ -3627,16 +3628,16 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3730,Paints,Armor,Power Armor,Enclave Epsilon Squad Scout Armor Paint,Raid: Gleaming Depths - 2nd Stage,true
 3731,C.A.M.P,Utilities,Generators,Ultracite Generator,Raid: Gleaming Depths - 4th Stage,true
 3732,Clothing,,Underarmor,Enclave Secret Operative Underarmor,Raid: Gleaming Depths - 5th Stage,true
-3733,Mods,Power Armor,Raider,Raider Power Armor Headlamp Blue,Mutated Event Packages,true
-3734,Mods,Power Armor,Raider,Raider Power Armor Headlamp Bright,Mutated Event Packages,true
-3735,Mods,Power Armor,Raider,Raider Power Armor Headlamp Purple,Mutated Event Packages,true
-3736,Mods,Power Armor,Raider,Raider Power Armor Headlamp Red Tactical,Mutated Event Packages,true
-3737,Mods,Power Armor,Raider,Raider Power Armor Headlamp Vault Boy,Mutated Event Packages,true
-3738,Mods,Power Armor,T-45,T-45 Power Armor Headlamp Blue,Mutated Event Packages,true
-3739,Mods,Power Armor,T-45,T-45 Power Armor Headlamp Bright,Mutated Event Packages,true
-3740,Mods,Power Armor,T-45,T-45 Power Armor Headlamp Purple,Mutated Event Packages,true
-3741,Mods,Power Armor,T-45,T-45 Power Armor Headlamp Red Tactical,Mutated Event Packages,true
-3742,Mods,Power Armor,T-45,T-45 Power Armor Headlamp Vault Boy,Mutated Event Packages,true
+3733,Mods,Power Armor,Raider,Raider Headlamp Blue,Mutated Event Packages,true
+3734,Mods,Power Armor,Raider,Raider Headlamp Bright,Mutated Event Packages,true
+3735,Mods,Power Armor,Raider,Raider Headlamp Purple,Mutated Event Packages,true
+3736,Mods,Power Armor,Raider,Raider Headlamp Red Tactical,Mutated Event Packages,true
+3737,Mods,Power Armor,Raider,Raider Headlamp Vault Boy,Mutated Event Packages,true
+3738,Mods,Power Armor,T-45,T-45 Headlamp Blue,Mutated Event Packages,true
+3739,Mods,Power Armor,T-45,T-45 Headlamp Bright,Mutated Event Packages,true
+3740,Mods,Power Armor,T-45,T-45 Headlamp Purple,Mutated Event Packages,true
+3741,Mods,Power Armor,T-45,T-45 Headlamp Red Tactical,Mutated Event Packages,true
+3742,Mods,Power Armor,T-45,T-45 Headlamp Vault Boy,Mutated Event Packages,true
 3743,C.A.M.P,Decorations,Floor Decor,Plastiform Candy Cane - Blue,Event: Holiday Scorched,true
 3744,C.A.M.P,Decorations,Floor Decor,Plastiform Candy Cane - Red,Event: Holiday Scorched,true
 3745,C.A.M.P,Decorations,Floor Decor,Plastiform Candy Cane - Yellow,Event: Holiday Scorched,true
@@ -3652,7 +3653,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3755,Mods,Ranged Weapons,Gatling Plasma,Large Core Receptacle,"Government Aid Drop, Secure Transport Container, or Skyline Valley Mystery Box",true
 3756,Mods,Ranged Weapons,Gatling Plasma,Stinging Core Receptacle,"Government Aid Drop, Secure Transport Container, or Skyline Valley Mystery Box",true
 3757,Mods,Ranged Weapons,Gatling Plasma,Swift Core Receptacle,"Government Aid Drop, Secure Transport Container, or Skyline Valley Mystery Box",true
-3758,Mods,Ranged Weapons,Gatling Plasma,Flamer Nozzle,Scrapping:Gatling Plasma,true
+3758,Mods,Ranged Weapons,Gatling Plasma,Flamer Nozzle,scrapping:Gatling Plasma,true
 3759,Legendary Mods,,4* Mods,Aegis,"Raid: Gleaming Depths - Any Stage, or scrapping a 4*",true
 3760,Legendary Mods,,4* Mods,Battle-Loader's,"Raid: Gleaming Depths - Any Stage, or scrapping a 4*",true
 3761,Legendary Mods,,4* Mods,Bruiser's,"Raid: Gleaming Depths - Any Stage, or scrapping a 4*",true
@@ -3665,7 +3666,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3768,Legendary Mods,,4* Mods,Fencer's,"Raid: Gleaming Depths - Any Stage, or scrapping a 4*",true
 3769,Legendary Mods,,4* Mods,Fracture's,"Raid: Gleaming Depths - Any Stage, or scrapping a 4*",true
 3770,Mods,Power Armor,Hellcat,Hellcat cooling vent,"Sold by Mortimer (Ally), Samuel (Ally), and Regs",true
-3771,Mods,Power Armor,Hellcat,Hellcat Motion Assist Servos,"Sold by Mortimer (Ally), Samuel (Ally), and Regs",true
+3771,Mods,Power Armor,Hellcat,Hellcat Motion-Assist Servos,"Sold by Mortimer (Ally), Samuel (Ally), and Regs",true
 3772,Legendary Mods,,4* Mods,Icemen's,"Raid: Gleaming Depths - Any Stage, or scrapping a 4*",true
 3773,Legendary Mods,,4* Mods,Limit-Breaking,"Raid: Gleaming Depths - Any Stage, or scrapping a 4*",true
 3774,Legendary Mods,,4* Mods,Miasma's,"Raid: Gleaming Depths - Any Stage, or scrapping a 4*",true
@@ -3694,31 +3695,31 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3797,C.A.M.P,Decorations,Floor Decor,Flowering Box - Soot Flower,Event: Fasnacht Day,true
 3798,C.A.M.P,Decorations,Floor Decor,Flowering Box - Ash Rose,Event: Fasnacht Day,true
 3799,C.A.M.P,Decorations,Floor Decor,Flowering Box - Aster,Event: Fasnacht Day,true
-3800,C.A.M.P,Decorations,Floor Decor,Flowering Box - Rhododendro,Event: Fasnacht Day,true
+3800,C.A.M.P,Decorations,Floor Decor,Flowering Box - Rhododendron,Event: Fasnacht Day,true
 3801,Legacy Plans,,Removed From Game,Vintage Water Cooler (Legacy Version),N/A,false
-3803,Mods,Power Armor,T-51b,T-51 Power Armor Headlamp Blue,Mutated Event Packages,true
-3804,Mods,Power Armor,T-51b,T-51 Power Armor Headlamp Bright,Mutated Event Packages,true
-3805,Mods,Power Armor,T-51b,T-51 Power Armor Headlamp Purple,Mutated Event Packages,true
-3806,Mods,Power Armor,T-51b,T-51 Power Armor Headlamp Red Tactical,Mutated Event Packages,true
-3807,Mods,Power Armor,T-51b,T-51 Power Armor Headlamp Vault Boy,Mutated Event Packages,true
-3808,Mods,Power Armor,T-60,T-60 Power Armor Headlamp Blue,Mutated Event Packages,true
-3809,Mods,Power Armor,T-60,T-60 Power Armor Headlamp Bright,Mutated Event Packages,true
-3810,Mods,Power Armor,T-60,T-60 Power Armor Headlamp Purple,Mutated Event Packages,true
-3811,Mods,Power Armor,T-60,T-60 Power Armor Headlamp Red Tactical,Mutated Event Packages,true
-3812,Mods,Power Armor,T-60,T-60 Power Armor Headlamp Vault Boy,Mutated Event Packages,true
+3803,Mods,Power Armor,T-51b,T-51b Headlamp Blue,Mutated Event Packages,true
+3804,Mods,Power Armor,T-51b,T-51b Headlamp Bright,Mutated Event Packages,true
+3805,Mods,Power Armor,T-51b,T-51b Headlamp Purple,Mutated Event Packages,true
+3806,Mods,Power Armor,T-51b,T-51b Headlamp Red Tactical,Mutated Event Packages,true
+3807,Mods,Power Armor,T-51b,T-51b Headlamp Vault Boy,Mutated Event Packages,true
+3808,Mods,Power Armor,T-60,T-60 Headlamp Blue,Mutated Event Packages,true
+3809,Mods,Power Armor,T-60,T-60 Headlamp Bright,Mutated Event Packages,true
+3810,Mods,Power Armor,T-60,T-60 Headlamp Purple,Mutated Event Packages,true
+3811,Mods,Power Armor,T-60,T-60 Headlamp Red Tactical,Mutated Event Packages,true
+3812,Mods,Power Armor,T-60,T-60 Headlamp Vault Boy,Mutated Event Packages,true
 3813,C.A.M.P,Decorations,Misc. Structures,Cosmic Capture,Event: Invaders From Beyond,true
 3814,C.A.M.P,Decorations,Misc. Structures,Company Tea Machine,Sold by Mortimer (Cautious),true
 3815,Paints,,Ranged Weapons,Shattered Grounds Handmade Paint,Sold by Regs,true
-3816,Weapons,,Melee,Garden Trowel Knife,Event: Big Bloom,true
+3816,Weapons,Melee,Sharp Weapons,Garden Trowel Knife,Event: Big Bloom,true
 3817,C.A.M.P,Decorations,Misc. Structures,Honey Beast Flower Display,Event: Big Bloom,true
 3818,C.A.M.P,Decorations,Misc. Structures,Honey Beast Tube,Event: Big Bloom,true
 3819,C.A.M.P,Decorations,Misc. Structures,Large Glazed Pot,Event: Big Bloom,true
 3820,C.A.M.P,Decorations,Misc. Structures,Medium Glazed Pot,Event: Big Bloom,true
-3821,C.A.M.P,Decorations,Misc. Structures,Pot o’ Carnal Weeper,Event: Big Bloom,true
-3822,C.A.M.P,Decorations,Misc. Structures,Pot o’ Crystalcup,Event: Big Bloom,true
-3823,C.A.M.P,Decorations,Misc. Structures,Pot o’ Radlily,Event: Big Bloom,true
+3821,C.A.M.P,Decorations,Misc. Structures,Pot o' Carnal Weeper,Event: Big Bloom,true
+3822,C.A.M.P,Decorations,Misc. Structures,Pot o' Crystalcup,Event: Big Bloom,true
+3823,C.A.M.P,Decorations,Misc. Structures,Pot o' Radlily,Event: Big Bloom,true
 3824,C.A.M.P,Decorations,Misc. Structures,Small Glazed Pot,Event: Big Bloom,true
-3825,C.A.M.P,Decorations,Misc. Structures,Susan’s Floral Secrets,Event: Big Bloom,true
+3825,C.A.M.P,Decorations,Misc. Structures,Susan's Floral Secrets,Event: Big Bloom,true
 3826,C.A.M.P,Utilities,Food,Critter Cooker,Sold By Samuel (Cautious),true
 3827,C.A.M.P,Utilities,Food,Slime Cake,Sold By Samuel (Cautious),true
 3828,C.A.M.P,Decorations,Floor Decor,Eel in a Bottle,Daily: Big Fish in a Small Pond,true
@@ -3776,10 +3777,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3880,Clothing,Accessories,Headwear,Flower Crown - Seesprout,Event: Big Bloom,true
 3881,Clothing,Accessories,Headwear,Flower Crown - Starlace,Event: Big Bloom,true
 3882,Clothing,Accessories,Outfits,Flower Suit,Event: Big Bloom,true
-3883,Clothing,Accessories,Outfits,Flower-Printed Dress,Event: Big Bloom,true
+3883,Clothing,Accessories,Outfits,Flower-Printed Sundress,Event: Big Bloom,true
 3884,Clothing,Accessories,Outfits,Wasteland Florist Apron,Event: Big Bloom,true
 3885,Clothing,Accessories,Headwear,Wasteland Florist Sunhat,Event: Big Bloom,true
-3886,Recipes,Consumables,Drinks,Black-Eyed Susan’s Soothin’,Event: Big Bloom,true
+3886,Recipes,Consumables,Drinks,Black-Eyed Susan's Soothin',Event: Big Bloom,true
 3887,Recipes,Consumables,Drinks,Gamma Green Tea,Event: Big Bloom,true
 3888,Player,,Titles,Goblin,Event: Mischief Night (First Time Drop),true
 3889,C.A.M.P,Decorations,Floor Decor,Mischief Night Stein,Event: Mischief Night,true
@@ -3789,7 +3790,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3893,C.A.M.P,Furniture,Appliances,Cauldron Hot Tub,Event: Mischief Night,true
 3894,C.A.M.P,Structures,Fences,Crooked Metal Fence,Event: Mischief Night,true
 3895,C.A.M.P,Decorations,Floor Decor,Deathclaw Gargoyle Statue,Event: Mischief Night,true
-3896,Clothing,Backpack,Flairs,Jack-O'-Lantern Backpack Flair,Event: Mischief Night,true
+3896,Clothing,Backpack,Flairs,Jack O'Lantern Backpack Flair,Event: Mischief Night,true
 3897,Clothing,Backpack,Backpacks,Jack-in-the-box Backpack,Event: Mischief Night,true
 3898,Clothing,Backpack,Backpacks,Scorpion Plushie Backpack,Event: Mischief Night,true
 3899,C.A.M.P,Furniture,Chairs,Hay Bale Throne,Event: Mischief Night,true
