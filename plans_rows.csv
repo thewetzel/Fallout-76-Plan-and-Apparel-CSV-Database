@@ -3194,7 +3194,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3284,Unobtainables,Cut Recipe,Plans,Brown Leather Backpack,Cut Plan,false
 3285,Unobtainables,Cut Recipe,Plans,Bubble Turret,Cut Plan,false
 3286,Unobtainables,Loose Mod Only,Plans,Chainsaw Flamer,Loose Mod Only,false
-3287,Unobtainables,Loose Mod Only,Plans,Chainsaw Long Bow Bar,Loose Mod Only,false
 3288,Unobtainables,Cut Recipe,Plans,Compound Bow Firework Arrows,Cut Plan,false
 3289,Unobtainables,Cut Recipe,Plans,Crop - Pumpkin,Cut Plan,false
 3290,Unobtainables,Cut Recipe,Plans,Dynamite Spear,Cut Plan,false
@@ -3975,3 +3974,13 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4096,Clothing,Accessories,Headwear,Deathclaw Tamer Hat,Event: Gearin` Up,true
 4097,Clothing,Accessories,Outfits,Deathclaw Tamer Outfit,Event: Gearin` Up,true
 4098,Recipes,Consumables,Food,Delbert's delicious deerskins,Wavy Willard's Water Park Concession Stand,true
+4099,Mods,Melee Weapons,Chainsaw,Long Bow Bar,Vendor: Spint,true
+4100,Clothing,Backpack,Backpacks,Deathclaw Head Backpack,Vendor: Windy,true
+4101,Clothing,Accessories,Outfits,Deathclaw Skin Outfit,Vendor: Windy,true
+4102,C.A.M.P,Decorations,Floor Decor,Gulper Plushie,Vendor: Windy,true
+4103,Clothing,Accessories,Headwear,Gulper Skin Hood,Vendor: Windy,true
+4104,Clothing,Accessories,Outfits,Gulper Skin Outfit,Vendor: Windy,true
+4105,Clothing,Accessories,Outfits,Hunter's Hanbok Outfit,Vendor: Windy,true
+4106,C.A.M.P,Furniture,Chairs,Ogua Shell Throne,Vendor: Windy,true
+4107,Clothing,Backpack,Flairs,Pheasant Foot Backpack Flair,Vendor: Windy,true
+4108,C.A.M.P,Decorations,Floor Decor,Windy's Snow Globe,Vendor: Windy,true
